@@ -1,0 +1,597 @@
+2020-06-17 08:22:57,546 INFO 16940 [Job#15923533775001446547798499001] D:\Teach\React\exam-manage\exam-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js execute succeed, used 13ms
+2020-06-17 10:33:03,911 INFO 16300 [egg-schedule]: register schedule D:\Teach\React\exam-manage\exam-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-17 10:33:03,911 INFO 16300 [egg-schedule]: register schedule D:\Teach\React\exam-manage\exam-server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-17 10:33:03,911 INFO 16300 [egg-schedule]: register schedule D:\Teach\React\exam-manage\exam-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-17 10:33:03,911 INFO 16300 [egg-schedule]: register schedule D:\Teach\React\exam-manage\exam-server\node_modules\egg-alinode\app\schedule\removeLogs.js
+2020-10-14 20:18:20,235 INFO 7960 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-14 20:18:20,235 INFO 7960 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-14 20:18:20,235 INFO 7960 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-14 20:18:20,235 INFO 7960 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-14 20:18:20,844 INFO 21396 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 29499160ms at 2020-10-15 04:30:00.004
+2020-10-14 20:18:20,844 INFO 21396 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 13299156ms at 2020-10-15 00:00:00.000
+2020-10-14 20:18:20,844 INFO 21396 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 13300156ms at 2020-10-15 00:00:01.000
+2020-10-14 20:18:20,845 INFO 21396 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js next time will execute after 13299156ms at 2020-10-15 00:00:00.001
+2020-10-14 20:24:07,163 INFO 10440 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-14 20:24:07,163 INFO 10440 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-14 20:24:07,163 INFO 10440 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-14 20:24:07,163 INFO 10440 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-14 20:24:07,769 INFO 9032 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 29152234ms at 2020-10-15 04:30:00.003
+2020-10-14 20:24:07,769 INFO 9032 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 12952231ms at 2020-10-15 00:00:00.000
+2020-10-14 20:24:07,769 INFO 9032 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 12953231ms at 2020-10-15 00:00:01.000
+2020-10-14 20:24:07,770 INFO 9032 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js next time will execute after 12952231ms at 2020-10-15 00:00:00.000
+2020-10-14 20:33:24,007 INFO 18380 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-14 20:33:24,008 INFO 18380 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-14 20:33:24,008 INFO 18380 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-14 20:33:24,008 INFO 18380 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-14 20:33:26,304 INFO 5080 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-14 20:33:26,304 INFO 5080 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-14 20:33:26,304 INFO 5080 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-14 20:33:26,304 INFO 5080 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-15 10:25:35,929 INFO 14180 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-15 10:25:35,929 INFO 14180 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-15 10:25:35,929 INFO 14180 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-15 10:25:35,929 INFO 14180 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-15 10:25:36,755 INFO 3652 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-15 10:25:36,755 INFO 3652 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-15 10:25:36,755 INFO 3652 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-15 10:25:36,755 INFO 3652 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-15 10:25:40,704 INFO 10580 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 65059301ms at 2020-10-16 04:30:00.005
+2020-10-15 10:25:40,704 INFO 10580 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 48859296ms at 2020-10-16 00:00:00.000
+2020-10-15 10:25:40,705 INFO 10580 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 48860296ms at 2020-10-16 00:00:01.001
+2020-10-15 10:25:40,705 INFO 10580 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js next time will execute after 48859295ms at 2020-10-16 00:00:00.000
+2020-10-15 10:25:42,040 INFO 2984 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-15 10:25:42,040 INFO 2984 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-15 10:25:42,040 INFO 2984 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-15 10:25:42,040 INFO 2984 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-15 10:25:43,890 INFO 8048 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-15 10:25:43,890 INFO 8048 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-15 10:25:43,890 INFO 8048 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-15 10:25:43,890 INFO 8048 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-18 20:59:25,339 INFO 17820 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-18 20:59:25,339 INFO 17820 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-18 20:59:25,339 INFO 17820 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-18 20:59:25,339 INFO 17820 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-18 20:59:23,233 INFO 9320 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-18 20:59:23,233 INFO 9320 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-18 20:59:23,233 INFO 9320 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-18 20:59:23,233 INFO 9320 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-18 20:59:32,944 INFO 9112 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 27027065ms at 2020-10-19 04:30:00.009
+2020-10-18 20:59:32,945 INFO 9112 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 10827055ms at 2020-10-19 00:00:00.000
+2020-10-18 20:59:32,946 INFO 9112 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 10828055ms at 2020-10-19 00:00:01.001
+2020-10-18 20:59:32,946 INFO 9112 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js next time will execute after 10827054ms at 2020-10-19 00:00:00.000
+2020-10-18 20:59:36,029 INFO 5928 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-18 20:59:36,029 INFO 5928 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-18 20:59:36,029 INFO 5928 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-18 20:59:36,030 INFO 5928 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-18 21:04:12,764 INFO 18448 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-18 21:04:12,764 INFO 18448 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-18 21:04:12,764 INFO 18448 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-18 21:04:12,764 INFO 18448 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-18 21:04:13,838 INFO 8844 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 26746167ms at 2020-10-19 04:30:00.004
+2020-10-18 21:04:13,838 INFO 8844 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 10546162ms at 2020-10-19 00:00:00.000
+2020-10-18 21:04:13,838 INFO 8844 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 10547162ms at 2020-10-19 00:00:01.000
+2020-10-18 21:04:13,839 INFO 8844 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js next time will execute after 10546162ms at 2020-10-19 00:00:00.001
+2020-10-18 21:06:34,338 INFO 11132 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-18 21:06:34,338 INFO 11132 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-18 21:06:34,338 INFO 11132 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-18 21:06:34,338 INFO 11132 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-18 21:06:35,421 INFO 6316 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 26604584ms at 2020-10-19 04:30:00.005
+2020-10-18 21:06:35,421 INFO 6316 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 10404579ms at 2020-10-19 00:00:00.000
+2020-10-18 21:06:35,422 INFO 6316 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 10405579ms at 2020-10-19 00:00:01.001
+2020-10-18 21:06:35,422 INFO 6316 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js next time will execute after 10404578ms at 2020-10-19 00:00:00.000
+2020-10-18 21:08:08,796 INFO 8440 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-18 21:08:08,796 INFO 8440 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-18 21:08:08,796 INFO 8440 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-18 21:08:08,796 INFO 8440 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-18 21:08:09,837 INFO 6848 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 26510167ms at 2020-10-19 04:30:00.004
+2020-10-18 21:08:09,838 INFO 6848 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 10310163ms at 2020-10-19 00:00:00.001
+2020-10-18 21:08:09,838 INFO 6848 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 10311162ms at 2020-10-19 00:00:01.000
+2020-10-18 21:08:09,838 INFO 6848 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js next time will execute after 10310162ms at 2020-10-19 00:00:00.000
+2020-10-18 21:13:35,999 INFO 15172 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-18 21:13:35,999 INFO 15172 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-18 21:13:35,999 INFO 15172 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-18 21:13:35,999 INFO 15172 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-18 21:13:37,024 INFO 4636 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 26182980ms at 2020-10-19 04:30:00.004
+2020-10-18 21:13:37,025 INFO 4636 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 9982975ms at 2020-10-19 00:00:00.000
+2020-10-18 21:13:37,025 INFO 4636 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 9983975ms at 2020-10-19 00:00:01.000
+2020-10-18 21:13:37,026 INFO 4636 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js next time will execute after 9982975ms at 2020-10-19 00:00:00.001
+2020-10-18 21:53:21,046 INFO 15164 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-18 21:53:21,046 INFO 15164 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-18 21:53:21,046 INFO 15164 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-18 21:53:21,046 INFO 15164 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-18 21:53:23,241 INFO 11124 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 23796763ms at 2020-10-19 04:30:00.004
+2020-10-18 21:53:23,242 INFO 11124 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 7596759ms at 2020-10-19 00:00:00.000
+2020-10-18 21:53:23,242 INFO 11124 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 7597758ms at 2020-10-19 00:00:01.000
+2020-10-18 21:53:23,242 INFO 11124 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js next time will execute after 7596758ms at 2020-10-19 00:00:00.000
+2020-10-19 18:16:10,693 INFO 16924 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-19 18:16:10,693 INFO 16924 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-19 18:16:10,693 INFO 16924 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-19 18:16:10,693 INFO 16924 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-19 18:16:11,881 INFO 6248 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-19 18:16:11,881 INFO 6248 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-19 18:16:11,881 INFO 6248 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-19 18:16:11,881 INFO 6248 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-19 18:16:15,427 INFO 12196 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 36824576ms at 2020-10-20 04:30:00.003
+2020-10-19 18:16:15,427 INFO 12196 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 20624573ms at 2020-10-20 00:00:00.000
+2020-10-19 18:16:15,428 INFO 12196 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 20625573ms at 2020-10-20 00:00:01.001
+2020-10-19 18:16:15,428 INFO 12196 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js next time will execute after 20624572ms at 2020-10-20 00:00:00.000
+2020-10-19 18:16:17,010 INFO 14688 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-19 18:16:17,010 INFO 14688 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-19 18:16:17,010 INFO 14688 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-19 18:16:17,010 INFO 14688 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-19 18:16:19,232 INFO 7792 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-19 18:16:19,232 INFO 7792 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-19 18:16:19,232 INFO 7792 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-19 18:16:19,232 INFO 7792 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-19 23:23:56,599 INFO 9468 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-19 23:23:56,599 INFO 9468 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-19 23:23:56,599 INFO 9468 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-19 23:23:56,599 INFO 9468 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-19 23:24:01,930 INFO 13028 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-19 23:24:01,930 INFO 13028 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-19 23:24:01,930 INFO 13028 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-19 23:24:01,930 INFO 13028 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-20 07:05:49,039 INFO 12904 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-20 07:05:49,039 INFO 12904 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-20 07:05:49,039 INFO 12904 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-20 07:05:49,039 INFO 12904 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-20 07:05:47,768 INFO 12832 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-20 07:05:47,768 INFO 12832 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-20 07:05:47,768 INFO 12832 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-20 07:05:47,768 INFO 12832 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-20 07:05:50,979 INFO 12592 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 77049026ms at 2020-10-21 04:30:00.004
+2020-10-20 07:05:50,979 INFO 12592 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 60849021ms at 2020-10-21 00:00:00.000
+2020-10-20 07:05:50,979 INFO 12592 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 60850021ms at 2020-10-21 00:00:01.000
+2020-10-20 07:05:50,980 INFO 12592 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js next time will execute after 60849021ms at 2020-10-21 00:00:00.001
+2020-10-20 07:05:52,166 INFO 12992 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-20 07:05:52,166 INFO 12992 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-20 07:05:52,166 INFO 12992 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-20 07:05:52,166 INFO 12992 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-20 08:07:55,673 INFO 8772 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-20 08:07:55,673 INFO 8772 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-20 08:07:55,673 INFO 8772 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-20 08:07:55,673 INFO 8772 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-20 08:07:59,567 INFO 13096 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-20 08:07:59,567 INFO 13096 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-20 08:07:59,567 INFO 13096 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-20 08:07:59,567 INFO 13096 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-20 09:16:26,729 INFO 14432 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-20 09:16:26,729 INFO 14432 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-20 09:16:26,729 INFO 14432 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-20 09:16:26,729 INFO 14432 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-20 09:16:28,760 INFO 14552 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-20 09:16:28,760 INFO 14552 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-20 09:16:28,760 INFO 14552 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-20 09:16:28,760 INFO 14552 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-20 09:16:29,749 INFO 14612 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-20 09:16:29,749 INFO 14612 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-20 09:16:29,749 INFO 14612 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-20 09:16:29,749 INFO 14612 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-20 09:16:30,511 INFO 14376 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 69209495ms at 2020-10-21 04:30:00.006
+2020-10-20 09:16:30,512 INFO 14376 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 53009489ms at 2020-10-21 00:00:00.000
+2020-10-20 09:16:30,512 INFO 14376 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 53010488ms at 2020-10-21 00:00:01.000
+2020-10-20 09:16:30,513 INFO 14376 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js next time will execute after 53009488ms at 2020-10-21 00:00:00.001
+2020-10-20 09:16:32,590 INFO 14780 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-20 09:16:32,590 INFO 14780 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-20 09:16:32,590 INFO 14780 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-20 09:16:32,590 INFO 14780 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-20 09:16:32,734 INFO 14840 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-20 09:16:32,734 INFO 14840 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-20 09:16:32,734 INFO 14840 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-20 09:16:32,734 INFO 14840 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-20 09:19:28,333 INFO 6352 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-20 09:19:28,333 INFO 6352 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-20 09:19:28,333 INFO 6352 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-20 09:19:28,333 INFO 6352 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-20 09:19:28,929 INFO 1392 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 69031075ms at 2020-10-21 04:30:00.004
+2020-10-20 09:19:28,930 INFO 1392 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 52831071ms at 2020-10-21 00:00:00.001
+2020-10-20 09:19:28,930 INFO 1392 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 52832070ms at 2020-10-21 00:00:01.000
+2020-10-20 09:19:28,931 INFO 1392 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js next time will execute after 52831070ms at 2020-10-21 00:00:00.001
+2020-10-20 09:29:34,050 INFO 12304 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-20 09:29:34,050 INFO 12304 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-20 09:29:34,050 INFO 12304 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-20 09:29:34,050 INFO 12304 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-20 09:29:34,676 INFO 8140 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 68425328ms at 2020-10-21 04:30:00.004
+2020-10-20 09:29:34,677 INFO 8140 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 52225324ms at 2020-10-21 00:00:00.001
+2020-10-20 09:29:34,678 INFO 8140 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 52226323ms at 2020-10-21 00:00:01.001
+2020-10-20 09:29:34,678 INFO 8140 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js next time will execute after 52225322ms at 2020-10-21 00:00:00.000
+2020-10-20 09:53:31,523 INFO 13920 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-20 09:53:31,523 INFO 13920 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-20 09:53:31,523 INFO 13920 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-20 09:53:31,523 INFO 13920 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-20 09:53:33,688 INFO 13408 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-20 09:53:33,688 INFO 13408 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-20 09:53:33,688 INFO 13408 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-20 09:53:33,688 INFO 13408 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-20 10:05:57,662 INFO 13192 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-20 10:05:57,662 INFO 13192 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-20 10:05:57,662 INFO 13192 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-20 10:05:57,662 INFO 13192 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-20 10:05:58,278 INFO 4380 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 66241726ms at 2020-10-21 04:30:00.004
+2020-10-20 10:05:58,279 INFO 4380 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 50041722ms at 2020-10-21 00:00:00.001
+2020-10-20 10:05:58,279 INFO 4380 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 50042721ms at 2020-10-21 00:00:01.000
+2020-10-20 10:05:58,280 INFO 4380 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js next time will execute after 50041721ms at 2020-10-21 00:00:00.001
+2020-10-21 08:35:47,541 INFO 8640 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-21 08:35:47,541 INFO 8640 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-21 08:35:47,541 INFO 8640 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-21 08:35:47,541 INFO 8640 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-21 08:35:46,917 INFO 16416 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-21 08:35:46,917 INFO 16416 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-21 08:35:46,917 INFO 16416 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-21 08:35:46,917 INFO 16416 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-21 08:35:58,683 INFO 812 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 71641319ms at 2020-10-22 04:30:00.002
+2020-10-21 08:35:58,683 INFO 812 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 55441317ms at 2020-10-22 00:00:00.000
+2020-10-21 08:35:58,684 INFO 812 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 55442316ms at 2020-10-22 00:00:01.000
+2020-10-21 08:35:58,685 INFO 812 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js next time will execute after 55441316ms at 2020-10-22 00:00:00.001
+2020-10-21 08:36:00,472 INFO 4148 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-21 08:36:00,472 INFO 4148 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-21 08:36:00,472 INFO 4148 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-21 08:36:00,472 INFO 4148 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-21 10:16:55,928 INFO 17684 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-21 10:16:55,928 INFO 17684 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-21 10:16:55,928 INFO 17684 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-21 10:16:55,928 INFO 17684 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-21 10:16:58,592 INFO 16696 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-21 10:16:58,592 INFO 16696 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-21 10:16:58,593 INFO 16696 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-21 10:16:58,593 INFO 16696 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-21 11:27:26,478 INFO 10736 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-21 11:27:26,479 INFO 10736 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-21 11:27:26,479 INFO 10736 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-21 11:27:26,479 INFO 10736 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-21 11:27:31,593 INFO 17040 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-21 11:27:31,593 INFO 17040 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-21 11:27:31,593 INFO 17040 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-21 11:27:31,593 INFO 17040 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-21 14:10:59,071 INFO 8132 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-21 14:10:59,072 INFO 8132 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-21 14:10:59,072 INFO 8132 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-21 14:10:59,072 INFO 8132 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-21 14:11:01,583 INFO 13808 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-21 14:11:01,583 INFO 13808 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-21 14:11:01,583 INFO 13808 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-21 14:11:01,583 INFO 13808 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-21 15:46:26,323 INFO 11864 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-21 15:46:26,323 INFO 11864 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-21 15:46:26,323 INFO 11864 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-21 15:46:26,323 INFO 11864 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-21 15:46:31,503 INFO 17556 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-21 15:46:31,503 INFO 17556 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-21 15:46:31,503 INFO 17556 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-21 15:46:31,503 INFO 17556 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-21 18:41:50,033 INFO 10264 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-21 18:41:50,033 INFO 10264 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-21 18:41:50,033 INFO 10264 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-21 18:41:50,033 INFO 10264 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-21 18:41:48,899 INFO 18668 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-21 18:41:48,899 INFO 18668 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-21 18:41:48,899 INFO 18668 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-21 18:41:48,899 INFO 18668 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-21 18:41:53,030 INFO 12528 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 35287008ms at 2020-10-22 04:30:00.037
+2020-10-21 18:41:53,030 INFO 12528 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 19086970ms at 2020-10-22 00:00:00.000
+2020-10-21 18:41:53,031 INFO 12528 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 19087970ms at 2020-10-22 00:00:01.001
+2020-10-21 18:41:53,031 INFO 12528 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js next time will execute after 19086969ms at 2020-10-22 00:00:00.000
+2020-10-21 18:41:54,394 INFO 9992 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-21 18:41:54,394 INFO 9992 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-21 18:41:54,394 INFO 9992 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-21 18:41:54,394 INFO 9992 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-21 18:41:56,418 INFO 11712 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-21 18:41:56,418 INFO 11712 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-21 18:41:56,418 INFO 11712 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-21 18:41:56,418 INFO 11712 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-22 14:01:40,091 INFO 13692 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-22 14:01:40,091 INFO 13692 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-22 14:01:40,091 INFO 13692 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-22 14:01:40,091 INFO 13692 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-22 14:01:38,967 INFO 1364 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-22 14:01:38,967 INFO 1364 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-22 14:01:38,967 INFO 1364 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-22 14:01:38,967 INFO 1364 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-22 14:01:45,170 INFO 10012 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 52094835ms at 2020-10-23 04:30:00.005
+2020-10-22 14:01:45,170 INFO 10012 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 35894830ms at 2020-10-23 00:00:00.000
+2020-10-22 14:01:45,171 INFO 10012 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 35895830ms at 2020-10-23 00:00:01.001
+2020-10-22 14:01:45,172 INFO 10012 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js next time will execute after 35894829ms at 2020-10-23 00:00:00.001
+2020-10-22 14:01:47,183 INFO 6976 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-22 14:01:47,183 INFO 6976 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-22 14:01:47,183 INFO 6976 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-22 14:01:47,183 INFO 6976 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-22 14:01:50,155 INFO 3584 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-22 14:01:50,155 INFO 3584 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-22 14:01:50,155 INFO 3584 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-22 14:01:50,155 INFO 3584 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-22 14:07:32,744 INFO 19876 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-22 14:07:32,744 INFO 19876 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-22 14:07:32,744 INFO 19876 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-22 14:07:32,744 INFO 19876 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-22 14:07:35,101 INFO 2992 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-22 14:07:35,101 INFO 2992 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-22 14:07:35,101 INFO 2992 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-22 14:07:35,101 INFO 2992 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-22 14:12:43,440 INFO 20152 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-22 14:12:43,440 INFO 20152 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-22 14:12:43,440 INFO 20152 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-22 14:12:43,440 INFO 20152 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-22 14:34:50,959 INFO 4348 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-22 14:34:50,959 INFO 4348 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-22 14:34:50,959 INFO 4348 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-22 14:34:50,959 INFO 4348 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-22 14:34:51,568 INFO 8856 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 50108436ms at 2020-10-23 04:30:00.004
+2020-10-22 14:34:51,569 INFO 8856 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 33908431ms at 2020-10-23 00:00:00.000
+2020-10-22 14:34:51,569 INFO 8856 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 33909431ms at 2020-10-23 00:00:01.000
+2020-10-22 14:34:51,569 INFO 8856 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js next time will execute after 33908431ms at 2020-10-23 00:00:00.000
+2020-10-22 14:40:54,364 INFO 18312 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-22 14:40:54,364 INFO 18312 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-22 14:40:54,364 INFO 18312 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-22 14:40:54,364 INFO 18312 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-22 14:44:35,443 INFO 12772 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-22 14:44:35,443 INFO 12772 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-22 14:44:35,443 INFO 12772 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-22 14:44:35,443 INFO 12772 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-22 14:46:15,057 INFO 4580 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-22 14:46:15,057 INFO 4580 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-22 14:46:15,057 INFO 4580 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-22 14:46:15,057 INFO 4580 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-22 14:46:17,287 INFO 4564 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-22 14:46:17,287 INFO 4564 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-22 14:46:17,287 INFO 4564 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-22 14:46:17,287 INFO 4564 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-22 14:46:20,205 INFO 15088 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-22 14:46:20,205 INFO 15088 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-22 14:46:20,205 INFO 15088 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-22 14:46:20,205 INFO 15088 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-22 14:46:59,156 INFO 1056 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-22 14:46:59,156 INFO 1056 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-22 14:46:59,156 INFO 1056 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-22 14:46:59,156 INFO 1056 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-22 14:48:27,628 INFO 1348 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-22 14:48:27,628 INFO 1348 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-22 14:48:27,628 INFO 1348 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-22 14:48:27,628 INFO 1348 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-22 14:50:00,931 INFO 16788 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-22 14:50:00,931 INFO 16788 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-22 14:50:00,931 INFO 16788 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-22 14:50:00,931 INFO 16788 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-22 14:50:11,549 INFO 19444 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-22 14:50:11,549 INFO 19444 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-22 14:50:11,549 INFO 19444 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-22 14:50:11,549 INFO 19444 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-22 14:50:14,658 INFO 12228 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-22 14:50:14,658 INFO 12228 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-22 14:50:14,658 INFO 12228 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-22 14:50:14,658 INFO 12228 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-22 14:50:22,465 INFO 19392 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-22 14:50:22,465 INFO 19392 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-22 14:50:22,465 INFO 19392 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-22 14:50:22,465 INFO 19392 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-22 14:50:24,900 INFO 19424 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-22 14:50:24,900 INFO 19424 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-22 14:50:24,900 INFO 19424 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-22 14:50:24,900 INFO 19424 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-22 14:52:24,746 INFO 15056 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-22 14:52:24,746 INFO 15056 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-22 14:52:24,746 INFO 15056 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-22 14:52:24,746 INFO 15056 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-22 14:52:28,062 INFO 6392 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-22 14:52:28,062 INFO 6392 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-22 14:52:28,062 INFO 6392 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-22 14:52:28,062 INFO 6392 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-22 14:52:37,514 INFO 16932 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-22 14:52:37,514 INFO 16932 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-22 14:52:37,514 INFO 16932 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-22 14:52:37,514 INFO 16932 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-22 14:52:40,090 INFO 13928 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-22 14:52:40,090 INFO 13928 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-22 14:52:40,090 INFO 13928 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-22 14:52:40,090 INFO 13928 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-22 14:53:21,888 INFO 12120 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-22 14:53:21,888 INFO 12120 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-22 14:53:21,888 INFO 12120 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-22 14:53:21,888 INFO 12120 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-22 14:53:25,121 INFO 14588 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-22 14:53:25,121 INFO 14588 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-22 14:53:25,121 INFO 14588 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-22 14:53:25,121 INFO 14588 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-22 14:53:42,917 INFO 6620 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-22 14:53:42,917 INFO 6620 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-22 14:53:42,917 INFO 6620 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-22 14:53:42,917 INFO 6620 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-22 14:53:45,640 INFO 15872 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-22 14:53:45,640 INFO 15872 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-22 14:53:45,640 INFO 15872 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-22 14:53:45,640 INFO 15872 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-22 14:57:06,012 INFO 2088 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-22 14:57:06,012 INFO 2088 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-22 14:57:06,012 INFO 2088 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-22 14:57:06,012 INFO 2088 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-22 18:21:30,511 INFO 17860 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-22 18:21:30,511 INFO 17860 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-22 18:21:30,511 INFO 17860 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-22 18:21:30,511 INFO 17860 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-22 18:21:29,066 INFO 14320 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-22 18:21:29,066 INFO 14320 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-22 18:21:29,066 INFO 14320 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-22 18:21:29,067 INFO 14320 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-22 18:21:26,957 INFO 4604 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-22 18:21:26,957 INFO 4604 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-22 18:21:26,957 INFO 4604 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-22 18:21:26,957 INFO 4604 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-22 18:21:33,461 INFO 19972 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 36506544ms at 2020-10-23 04:30:00.005
+2020-10-22 18:21:33,461 INFO 19972 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 20306539ms at 2020-10-23 00:00:00.000
+2020-10-22 18:21:33,462 INFO 19972 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 20307539ms at 2020-10-23 00:00:01.001
+2020-10-22 18:21:33,462 INFO 19972 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js next time will execute after 20306538ms at 2020-10-23 00:00:00.000
+2020-10-22 18:21:35,258 INFO 12812 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-22 18:21:35,258 INFO 12812 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-22 18:21:35,258 INFO 12812 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-22 18:21:35,258 INFO 12812 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-22 18:21:35,315 INFO 1540 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-22 18:21:35,315 INFO 1540 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-22 18:21:35,315 INFO 1540 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-22 18:21:35,315 INFO 1540 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-22 18:21:37,651 INFO 4992 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-22 18:21:37,651 INFO 4992 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-22 18:21:37,651 INFO 4992 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-22 18:21:37,651 INFO 4992 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-22 20:35:37,477 INFO 18780 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-22 20:35:37,477 INFO 18780 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-22 20:35:37,477 INFO 18780 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-22 20:35:37,477 INFO 18780 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-22 20:35:37,477 INFO 16824 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-22 20:35:37,477 INFO 16824 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-22 20:35:37,477 INFO 16824 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-22 20:35:37,477 INFO 16824 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-22 20:35:40,100 INFO 17512 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-22 20:35:40,100 INFO 17512 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-22 20:35:40,100 INFO 17512 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-22 20:35:40,100 INFO 17512 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-22 20:35:40,096 INFO 12940 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-22 20:35:40,096 INFO 12940 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-22 20:35:40,096 INFO 12940 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-22 20:35:40,096 INFO 12940 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-22 20:36:07,992 INFO 20924 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-22 20:36:07,992 INFO 20924 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-22 20:36:07,992 INFO 20924 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-22 20:36:07,992 INFO 20924 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-22 20:36:08,080 INFO 20916 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-22 20:36:08,080 INFO 20916 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-22 20:36:08,080 INFO 20916 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-22 20:36:08,080 INFO 20916 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-22 20:36:15,419 INFO 21128 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-22 20:36:15,419 INFO 21128 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-22 20:36:15,419 INFO 21128 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-22 20:36:15,419 INFO 21128 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-22 20:36:15,419 INFO 21136 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-22 20:36:15,419 INFO 21136 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-22 20:36:15,419 INFO 21136 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-22 20:36:15,419 INFO 21136 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-23 08:09:16,267 INFO 1664 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-23 08:09:16,267 INFO 1664 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-23 08:09:16,267 INFO 1664 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-23 08:09:16,267 INFO 1664 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-23 08:09:15,079 INFO 8672 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-23 08:09:15,079 INFO 8672 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-23 08:09:15,079 INFO 8672 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-23 08:09:15,079 INFO 8672 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-23 08:09:21,071 INFO 11656 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 73238934ms at 2020-10-24 04:30:00.005
+2020-10-23 08:09:21,072 INFO 11656 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 57038928ms at 2020-10-24 00:00:00.000
+2020-10-23 08:09:21,073 INFO 11656 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 57039928ms at 2020-10-24 00:00:01.001
+2020-10-23 08:09:21,073 INFO 11656 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js next time will execute after 57038927ms at 2020-10-24 00:00:00.000
+2020-10-23 08:09:22,596 INFO 9608 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-23 08:09:22,596 INFO 9608 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-23 08:09:22,596 INFO 9608 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-23 08:09:22,596 INFO 9608 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-23 08:09:25,062 INFO 7360 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-23 08:09:25,062 INFO 7360 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-23 08:09:25,062 INFO 7360 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-23 08:09:25,062 INFO 7360 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-24 17:43:03,577 INFO 13764 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-24 17:43:03,577 INFO 13764 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-24 17:43:03,577 INFO 13764 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-24 17:43:03,577 INFO 13764 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-24 17:43:02,910 INFO 19892 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-24 17:43:02,910 INFO 19892 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-24 17:43:02,910 INFO 19892 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-24 17:43:02,910 INFO 19892 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-24 17:43:09,528 INFO 7052 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 38810476ms at 2020-10-25 04:30:00.004
+2020-10-24 17:43:09,529 INFO 7052 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 22610472ms at 2020-10-25 00:00:00.001
+2020-10-24 17:43:09,529 INFO 7052 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 22611471ms at 2020-10-25 00:00:01.000
+2020-10-24 17:43:09,529 INFO 7052 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js next time will execute after 22610471ms at 2020-10-25 00:00:00.000
+2020-10-24 17:43:10,954 INFO 11584 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-24 17:43:10,954 INFO 11584 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-24 17:43:10,954 INFO 11584 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-24 17:43:10,954 INFO 11584 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-26 17:25:46,044 INFO 23876 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-26 17:25:46,044 INFO 23876 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-26 17:25:46,044 INFO 23876 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-26 17:25:46,044 INFO 23876 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-26 17:25:45,124 INFO 23188 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-26 17:25:45,124 INFO 23188 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-26 17:25:45,124 INFO 23188 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-26 17:25:45,124 INFO 23188 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-26 17:25:51,242 INFO 19756 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 39848763ms at 2020-10-27 04:30:00.004
+2020-10-26 17:25:51,243 INFO 19756 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 23648758ms at 2020-10-27 00:00:00.001
+2020-10-26 17:25:51,243 INFO 19756 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 23649757ms at 2020-10-27 00:00:01.000
+2020-10-26 17:25:51,243 INFO 19756 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js next time will execute after 23648757ms at 2020-10-27 00:00:00.000
+2020-10-26 17:25:52,997 INFO 13856 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-26 17:25:52,997 INFO 13856 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-26 17:25:52,997 INFO 13856 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-26 17:25:52,997 INFO 13856 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-28 14:08:47,981 INFO 1816 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-28 14:08:47,981 INFO 1816 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-28 14:08:47,981 INFO 1816 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-28 14:08:47,981 INFO 1816 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-28 14:08:47,110 INFO 17104 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-28 14:08:47,110 INFO 17104 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-28 14:08:47,110 INFO 17104 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-28 14:08:47,110 INFO 17104 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-28 14:08:54,200 INFO 740 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 51665805ms at 2020-10-29 04:30:00.005
+2020-10-28 14:08:54,200 INFO 740 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 35465800ms at 2020-10-29 00:00:00.000
+2020-10-28 14:08:54,201 INFO 740 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 35466800ms at 2020-10-29 00:00:01.001
+2020-10-28 14:08:54,201 INFO 740 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js next time will execute after 35465799ms at 2020-10-29 00:00:00.000
+2020-10-28 14:08:55,482 INFO 10776 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-28 14:08:55,482 INFO 10776 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-28 14:08:55,482 INFO 10776 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-28 14:08:55,482 INFO 10776 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-28 15:15:49,138 INFO 22064 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-28 15:15:49,139 INFO 22064 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-28 15:15:49,139 INFO 22064 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-28 15:15:49,139 INFO 22064 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-28 15:15:52,911 INFO 5684 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-28 15:15:52,911 INFO 5684 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-28 15:15:52,911 INFO 5684 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-28 15:15:52,911 INFO 5684 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-28 18:16:22,886 INFO 4784 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-28 18:16:22,886 INFO 4784 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-28 18:16:22,886 INFO 4784 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-28 18:16:22,886 INFO 4784 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-28 18:16:23,520 INFO 9920 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 36816485ms at 2020-10-29 04:30:00.004
+2020-10-28 18:16:23,520 INFO 9920 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 20616480ms at 2020-10-29 00:00:00.000
+2020-10-28 18:16:23,520 INFO 9920 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 20617480ms at 2020-10-29 00:00:01.000
+2020-10-28 18:16:23,520 INFO 9920 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js next time will execute after 20616480ms at 2020-10-29 00:00:00.000
+2020-10-28 18:16:24,610 INFO 16836 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-28 18:16:24,610 INFO 16836 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-28 18:16:24,610 INFO 16836 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-28 18:16:24,610 INFO 16836 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-28 18:16:26,515 INFO 16244 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-28 18:16:26,515 INFO 16244 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-28 18:16:26,515 INFO 16244 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-28 18:16:26,515 INFO 16244 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-28 18:36:28,222 INFO 8892 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-28 18:36:28,222 INFO 8892 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-28 18:36:28,222 INFO 8892 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-28 18:36:28,223 INFO 8892 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-28 18:36:28,830 INFO 8900 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 35611173ms at 2020-10-29 04:30:00.003
+2020-10-28 18:36:28,830 INFO 8900 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 19411170ms at 2020-10-29 00:00:00.000
+2020-10-28 18:36:28,830 INFO 8900 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 19412170ms at 2020-10-29 00:00:01.000
+2020-10-28 18:36:28,830 INFO 8900 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js next time will execute after 19411170ms at 2020-10-29 00:00:00.000
+2020-10-28 18:51:12,143 INFO 20868 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-28 18:51:12,143 INFO 20868 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-28 18:51:12,143 INFO 20868 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-28 18:51:12,143 INFO 20868 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-28 18:51:12,724 INFO 16528 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 34727279ms at 2020-10-29 04:30:00.003
+2020-10-28 18:51:12,724 INFO 16528 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 18527276ms at 2020-10-29 00:00:00.000
+2020-10-28 18:51:12,725 INFO 16528 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 18528276ms at 2020-10-29 00:00:01.001
+2020-10-28 18:51:12,725 INFO 16528 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js next time will execute after 18527275ms at 2020-10-29 00:00:00.000
+2020-10-29 10:24:27,898 INFO 6928 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-29 10:24:27,898 INFO 6928 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-29 10:24:27,898 INFO 6928 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-29 10:24:27,898 INFO 6928 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-29 10:24:28,906 INFO 1552 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-29 10:24:28,906 INFO 1552 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-29 10:24:28,906 INFO 1552 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-29 10:24:28,906 INFO 1552 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-29 10:24:32,138 INFO 13316 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 65127864ms at 2020-10-30 04:30:00.002
+2020-10-29 10:24:32,139 INFO 13316 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 48927861ms at 2020-10-30 00:00:00.000
+2020-10-29 10:24:32,140 INFO 13316 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 48928861ms at 2020-10-30 00:00:01.001
+2020-10-29 10:24:32,140 INFO 13316 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js next time will execute after 48927860ms at 2020-10-30 00:00:00.000
+2020-10-29 10:24:33,493 INFO 1288 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-29 10:24:33,493 INFO 1288 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-29 10:24:33,493 INFO 1288 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-29 10:24:33,493 INFO 1288 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-29 10:46:47,828 INFO 9976 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-29 10:46:47,828 INFO 9976 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-29 10:46:47,828 INFO 9976 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-29 10:46:47,828 INFO 9976 [egg-schedule]: register schedule G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2020-10-29 10:46:48,447 INFO 12548 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 63791555ms at 2020-10-30 04:30:00.002
+2020-10-29 10:46:48,447 INFO 12548 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 47591553ms at 2020-10-30 00:00:00.000
+2020-10-29 10:46:48,448 INFO 12548 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 47592552ms at 2020-10-30 00:00:01.000
+2020-10-29 10:46:48,448 INFO 12548 [Timer] G:\web\实训二\实训二 项目\后台\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js next time will execute after 47591552ms at 2020-10-30 00:00:00.000

@@ -1,0 +1,215 @@
+2019-08-30 15:28:09,001 INFO 4528 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-30 15:28:09,001 INFO 4528 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-30 15:28:09,001 INFO 4528 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-30 15:28:09,001 INFO 4528 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-alinode\app\schedule\removeLogs.js
+2019-08-30 15:30:43,220 INFO 15008 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-30 15:30:43,221 INFO 15008 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-30 15:30:43,221 INFO 15008 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-30 15:30:43,221 INFO 15008 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-alinode\app\schedule\removeLogs.js
+2019-08-30 15:30:44,136 INFO 6720 [Timer] D:\Teach\__project\egg-exam\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 46755871ms at 2019-08-31 04:30:00.006
+2019-08-30 15:30:44,136 INFO 6720 [Timer] D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 30555864ms at 2019-08-31 00:00:00.000
+2019-08-30 15:30:44,137 INFO 6720 [Timer] D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 30556863ms at 2019-08-31 00:00:01.000
+2019-08-30 15:30:44,138 INFO 6720 [Timer] D:\Teach\__project\egg-exam\node_modules\egg-alinode\app\schedule\removeLogs.js next time will execute after 30555863ms at 2019-08-31 00:00:00.001
+2019-09-02 15:01:32,013 INFO 16272 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-09-02 15:01:32,013 INFO 16272 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-09-02 15:01:32,013 INFO 16272 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-09-02 15:01:32,013 INFO 16272 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-alinode\app\schedule\removeLogs.js
+2019-09-02 15:01:35,951 INFO 15712 [Timer] D:\Teach\__project\egg-exam\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 48504055ms at 2019-09-03 04:30:00.006
+2019-09-02 15:01:35,951 INFO 15712 [Timer] D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 32304049ms at 2019-09-03 00:00:00.000
+2019-09-02 15:01:35,952 INFO 15712 [Timer] D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 32305049ms at 2019-09-03 00:00:01.001
+2019-09-02 15:01:35,952 INFO 15712 [Timer] D:\Teach\__project\egg-exam\node_modules\egg-alinode\app\schedule\removeLogs.js next time will execute after 32304048ms at 2019-09-03 00:00:00.000
+2019-09-04 15:10:36,169 INFO 120088 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-09-04 15:10:36,169 INFO 120088 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-09-04 15:10:36,170 INFO 120088 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-09-04 15:10:36,170 INFO 120088 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-alinode\app\schedule\removeLogs.js
+2019-09-04 15:10:40,257 INFO 120628 [Timer] D:\Teach\__project\egg-exam\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 47959750ms at 2019-09-05 04:30:00.007
+2019-09-04 15:10:40,258 INFO 120628 [Timer] D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 31759743ms at 2019-09-05 00:00:00.001
+2019-09-04 15:10:40,258 INFO 120628 [Timer] D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 31760742ms at 2019-09-05 00:00:01.000
+2019-09-04 15:10:40,259 INFO 120628 [Timer] D:\Teach\__project\egg-exam\node_modules\egg-alinode\app\schedule\removeLogs.js next time will execute after 31759742ms at 2019-09-05 00:00:00.001
+2019-09-04 19:03:54,074 INFO 234552 [Timer] D:\Teach\__project\egg-exam\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 33965929ms at 2019-09-05 04:30:00.003
+2019-09-04 19:03:54,074 INFO 234552 [Timer] D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 17765926ms at 2019-09-05 00:00:00.000
+2019-09-04 19:03:54,075 INFO 234552 [Timer] D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 17766926ms at 2019-09-05 00:00:01.001
+2019-09-04 19:03:54,075 INFO 234552 [Timer] D:\Teach\__project\egg-exam\node_modules\egg-alinode\app\schedule\removeLogs.js next time will execute after 17765925ms at 2019-09-05 00:00:00.000
+2019-09-04 19:03:53,580 INFO 234752 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-09-04 19:03:53,581 INFO 234752 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-09-04 19:03:53,581 INFO 234752 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-09-04 19:03:53,581 INFO 234752 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-alinode\app\schedule\removeLogs.js
+2019-12-16 08:44:57,308 INFO 17556 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-16 08:44:57,308 INFO 17556 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-16 08:44:57,308 INFO 17556 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-16 08:44:57,308 INFO 17556 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-alinode\app\schedule\removeLogs.js
+2019-12-16 08:45:04,830 INFO 16592 [Timer] D:\Teach\__project\egg-exam\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 71095180ms at 2019-12-17 04:30:00.010
+2019-12-16 08:45:04,832 INFO 16592 [Timer] D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 54895169ms at 2019-12-17 00:00:00.001
+2019-12-16 08:45:04,833 INFO 16592 [Timer] D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 54896168ms at 2019-12-17 00:00:01.001
+2019-12-16 08:45:04,834 INFO 16592 [Timer] D:\Teach\__project\egg-exam\node_modules\egg-alinode\app\schedule\removeLogs.js next time will execute after 54895167ms at 2019-12-17 00:00:00.001
+2019-12-16 08:57:05,019 INFO 20132 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-16 08:57:05,019 INFO 20132 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-16 08:57:05,019 INFO 20132 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-16 08:57:05,019 INFO 20132 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-alinode\app\schedule\removeLogs.js
+2019-12-16 08:57:07,643 INFO 3096 [Timer] D:\Teach\__project\egg-exam\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 70372360ms at 2019-12-17 04:30:00.003
+2019-12-16 08:57:07,643 INFO 3096 [Timer] D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 54172357ms at 2019-12-17 00:00:00.000
+2019-12-16 08:57:07,643 INFO 3096 [Timer] D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 54173357ms at 2019-12-17 00:00:01.000
+2019-12-16 08:57:07,644 INFO 3096 [Timer] D:\Teach\__project\egg-exam\node_modules\egg-alinode\app\schedule\removeLogs.js next time will execute after 54172357ms at 2019-12-17 00:00:00.001
+2020-06-15 14:48:03,252 INFO 12020 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-15 14:48:03,252 INFO 12020 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-15 14:48:03,252 INFO 12020 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-15 14:48:03,252 INFO 12020 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-alinode\app\schedule\removeLogs.js
+2020-06-15 14:48:07,689 INFO 16588 [Timer] D:\Teach\__project\egg-exam\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 49312316ms at 2020-06-16 04:30:00.005
+2020-06-15 14:48:07,689 INFO 16588 [Timer] D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 33112311ms at 2020-06-16 00:00:00.000
+2020-06-15 14:48:07,690 INFO 16588 [Timer] D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 33113311ms at 2020-06-16 00:00:01.001
+2020-06-15 14:48:07,690 INFO 16588 [Timer] D:\Teach\__project\egg-exam\node_modules\egg-alinode\app\schedule\removeLogs.js next time will execute after 33112310ms at 2020-06-16 00:00:00.000
+2020-06-15 15:03:03,161 INFO 10620 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-15 15:03:03,161 INFO 10620 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-15 15:03:03,162 INFO 10620 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-15 15:03:03,162 INFO 10620 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-alinode\app\schedule\removeLogs.js
+2020-06-15 15:03:05,473 INFO 15572 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-15 15:03:05,473 INFO 15572 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-15 15:03:05,473 INFO 15572 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-15 15:03:05,473 INFO 15572 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-alinode\app\schedule\removeLogs.js
+2020-06-15 15:03:17,186 INFO 3928 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-15 15:03:17,186 INFO 3928 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-15 15:03:17,186 INFO 3928 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-15 15:03:17,186 INFO 3928 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-alinode\app\schedule\removeLogs.js
+2020-06-15 15:03:17,870 INFO 13392 [Timer] D:\Teach\__project\egg-exam\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 48402134ms at 2020-06-16 04:30:00.003
+2020-06-15 15:03:17,870 INFO 13392 [Timer] D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 32202130ms at 2020-06-16 00:00:00.000
+2020-06-15 15:03:17,870 INFO 13392 [Timer] D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 32203130ms at 2020-06-16 00:00:01.000
+2020-06-15 15:03:17,871 INFO 13392 [Timer] D:\Teach\__project\egg-exam\node_modules\egg-alinode\app\schedule\removeLogs.js next time will execute after 32202130ms at 2020-06-16 00:00:00.001
+2020-06-15 15:20:51,751 INFO 1072 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-15 15:20:51,751 INFO 1072 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-15 15:20:51,751 INFO 1072 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-15 15:20:51,751 INFO 1072 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-alinode\app\schedule\removeLogs.js
+2020-06-15 15:20:52,508 INFO 8728 [Timer] D:\Teach\__project\egg-exam\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 47347496ms at 2020-06-16 04:30:00.004
+2020-06-15 15:20:52,509 INFO 8728 [Timer] D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 31147492ms at 2020-06-16 00:00:00.001
+2020-06-15 15:20:52,509 INFO 8728 [Timer] D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 31148491ms at 2020-06-16 00:00:01.000
+2020-06-15 15:20:52,510 INFO 8728 [Timer] D:\Teach\__project\egg-exam\node_modules\egg-alinode\app\schedule\removeLogs.js next time will execute after 31147491ms at 2020-06-16 00:00:00.001
+2020-06-15 15:22:20,829 INFO 3252 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-15 15:22:20,829 INFO 3252 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-15 15:22:20,829 INFO 3252 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-15 15:22:20,829 INFO 3252 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-alinode\app\schedule\removeLogs.js
+2020-06-15 15:22:21,786 INFO 6188 [Timer] D:\Teach\__project\egg-exam\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 47258220ms at 2020-06-16 04:30:00.006
+2020-06-15 15:22:21,786 INFO 6188 [Timer] D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 31058214ms at 2020-06-16 00:00:00.000
+2020-06-15 15:22:21,787 INFO 6188 [Timer] D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 31059214ms at 2020-06-16 00:00:01.001
+2020-06-15 15:22:21,787 INFO 6188 [Timer] D:\Teach\__project\egg-exam\node_modules\egg-alinode\app\schedule\removeLogs.js next time will execute after 31058213ms at 2020-06-16 00:00:00.000
+2020-06-15 15:27:11,997 INFO 14032 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-15 15:27:11,998 INFO 14032 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-15 15:27:11,998 INFO 14032 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-15 15:27:11,998 INFO 14032 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-alinode\app\schedule\removeLogs.js
+2020-06-15 15:30:43,358 INFO 6016 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-15 15:30:43,358 INFO 6016 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-15 15:30:43,358 INFO 6016 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-15 15:30:43,358 INFO 6016 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-alinode\app\schedule\removeLogs.js
+2020-06-15 15:30:47,223 INFO 2216 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-15 15:30:47,223 INFO 2216 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-15 15:30:47,223 INFO 2216 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-15 15:30:47,223 INFO 2216 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-alinode\app\schedule\removeLogs.js
+2020-06-15 15:31:27,956 INFO 14996 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-15 15:31:27,956 INFO 14996 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-15 15:31:27,956 INFO 14996 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-15 15:31:27,956 INFO 14996 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-alinode\app\schedule\removeLogs.js
+2020-06-15 15:31:28,677 INFO 17044 [Timer] D:\Teach\__project\egg-exam\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 46711327ms at 2020-06-16 04:30:00.004
+2020-06-15 15:31:28,677 INFO 17044 [Timer] D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 30511323ms at 2020-06-16 00:00:00.000
+2020-06-15 15:31:28,678 INFO 17044 [Timer] D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 30512323ms at 2020-06-16 00:00:01.001
+2020-06-15 15:31:28,678 INFO 17044 [Timer] D:\Teach\__project\egg-exam\node_modules\egg-alinode\app\schedule\removeLogs.js next time will execute after 30511322ms at 2020-06-16 00:00:00.000
+2020-06-15 15:35:48,524 INFO 6168 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-15 15:35:48,524 INFO 6168 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-15 15:35:48,524 INFO 6168 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-15 15:35:48,524 INFO 6168 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-alinode\app\schedule\removeLogs.js
+2020-06-15 15:35:52,210 INFO 3724 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-15 15:35:52,210 INFO 3724 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-15 15:35:52,210 INFO 3724 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-15 15:35:52,210 INFO 3724 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-alinode\app\schedule\removeLogs.js
+2020-06-15 15:36:05,421 INFO 10556 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-15 15:36:05,421 INFO 10556 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-15 15:36:05,421 INFO 10556 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-15 15:36:05,422 INFO 10556 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-alinode\app\schedule\removeLogs.js
+2020-06-15 15:36:06,108 INFO 14620 [Timer] D:\Teach\__project\egg-exam\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 46433896ms at 2020-06-16 04:30:00.004
+2020-06-15 15:36:06,109 INFO 14620 [Timer] D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 30233892ms at 2020-06-16 00:00:00.001
+2020-06-15 15:36:06,109 INFO 14620 [Timer] D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 30234891ms at 2020-06-16 00:00:01.000
+2020-06-15 15:36:06,109 INFO 14620 [Timer] D:\Teach\__project\egg-exam\node_modules\egg-alinode\app\schedule\removeLogs.js next time will execute after 30233891ms at 2020-06-16 00:00:00.000
+2020-06-15 15:37:07,669 INFO 7296 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-15 15:37:07,669 INFO 7296 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-15 15:37:07,669 INFO 7296 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-15 15:37:07,669 INFO 7296 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-alinode\app\schedule\removeLogs.js
+2020-06-15 15:37:11,967 INFO 11664 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-15 15:37:11,967 INFO 11664 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-15 15:37:11,967 INFO 11664 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-15 15:37:11,967 INFO 11664 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-alinode\app\schedule\removeLogs.js
+2020-06-15 15:37:34,685 INFO 16652 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-15 15:37:34,685 INFO 16652 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-15 15:37:34,685 INFO 16652 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-15 15:37:34,685 INFO 16652 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-alinode\app\schedule\removeLogs.js
+2020-06-15 15:37:38,840 INFO 14180 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-15 15:37:38,840 INFO 14180 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-15 15:37:38,840 INFO 14180 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-15 15:37:38,840 INFO 14180 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-alinode\app\schedule\removeLogs.js
+2020-06-15 15:37:41,464 INFO 11244 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-15 15:37:41,465 INFO 11244 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-15 15:37:41,465 INFO 11244 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-15 15:37:41,465 INFO 11244 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-alinode\app\schedule\removeLogs.js
+2020-06-15 15:39:04,198 INFO 13648 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-15 15:39:04,198 INFO 13648 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-15 15:39:04,198 INFO 13648 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-15 15:39:04,198 INFO 13648 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-alinode\app\schedule\removeLogs.js
+2020-06-15 15:39:10,216 INFO 8992 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-15 15:39:10,216 INFO 8992 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-15 15:39:10,216 INFO 8992 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-15 15:39:10,216 INFO 8992 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-alinode\app\schedule\removeLogs.js
+2020-06-15 15:39:26,454 INFO 10784 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-15 15:39:26,454 INFO 10784 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-15 15:39:26,454 INFO 10784 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-15 15:39:26,455 INFO 10784 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-alinode\app\schedule\removeLogs.js
+2020-06-15 15:39:35,696 INFO 8980 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-15 15:39:35,696 INFO 8980 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-15 15:39:35,696 INFO 8980 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-15 15:39:35,696 INFO 8980 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-alinode\app\schedule\removeLogs.js
+2020-06-15 15:39:44,188 INFO 9480 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-15 15:39:44,188 INFO 9480 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-15 15:39:44,188 INFO 9480 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-15 15:39:44,188 INFO 9480 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-alinode\app\schedule\removeLogs.js
+2020-06-15 15:40:37,262 INFO 3728 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-15 15:40:37,262 INFO 3728 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-15 15:40:37,262 INFO 3728 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-15 15:40:37,262 INFO 3728 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-alinode\app\schedule\removeLogs.js
+2020-06-15 15:40:40,904 INFO 5828 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-15 15:40:40,904 INFO 5828 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-15 15:40:40,904 INFO 5828 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-15 15:40:40,904 INFO 5828 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-alinode\app\schedule\removeLogs.js
+2020-06-15 15:40:43,544 INFO 6136 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-15 15:40:43,544 INFO 6136 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-15 15:40:43,544 INFO 6136 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-15 15:40:43,544 INFO 6136 [egg-schedule]: register schedule D:\Teach\__project\egg-exam\node_modules\egg-alinode\app\schedule\removeLogs.js
+2020-06-15 15:54:24,196 INFO 13056 [egg-schedule]: register schedule D:\Teach\React\exam-manage\exam-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-15 15:54:24,196 INFO 13056 [egg-schedule]: register schedule D:\Teach\React\exam-manage\exam-server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-15 15:54:24,196 INFO 13056 [egg-schedule]: register schedule D:\Teach\React\exam-manage\exam-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-15 15:54:24,197 INFO 13056 [egg-schedule]: register schedule D:\Teach\React\exam-manage\exam-server\node_modules\egg-alinode\app\schedule\removeLogs.js
+2020-06-15 15:54:39,769 INFO 1224 [Timer] D:\Teach\React\exam-manage\exam-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 45320242ms at 2020-06-16 04:30:00.011
+2020-06-15 15:54:39,772 INFO 1224 [Timer] D:\Teach\React\exam-manage\exam-server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 29120230ms at 2020-06-16 00:00:00.002
+2020-06-15 15:54:39,774 INFO 1224 [Timer] D:\Teach\React\exam-manage\exam-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 29121228ms at 2020-06-16 00:00:01.002
+2020-06-15 15:54:39,776 INFO 1224 [Timer] D:\Teach\React\exam-manage\exam-server\node_modules\egg-alinode\app\schedule\removeLogs.js next time will execute after 29120226ms at 2020-06-16 00:00:00.001
+2020-06-16 14:06:24,937 INFO 14072 [egg-schedule]: register schedule D:\Teach\React\exam-manage\exam-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-16 14:06:24,937 INFO 14072 [egg-schedule]: register schedule D:\Teach\React\exam-manage\exam-server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-16 14:06:24,937 INFO 14072 [egg-schedule]: register schedule D:\Teach\React\exam-manage\exam-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-16 14:06:24,937 INFO 14072 [egg-schedule]: register schedule D:\Teach\React\exam-manage\exam-server\node_modules\egg-alinode\app\schedule\removeLogs.js
+2020-06-16 14:06:30,667 INFO 12488 [Timer] D:\Teach\React\exam-manage\exam-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 51809340ms at 2020-06-17 04:30:00.007
+2020-06-16 14:06:30,670 INFO 12488 [Timer] D:\Teach\React\exam-manage\exam-server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 35609332ms at 2020-06-17 00:00:00.002
+2020-06-16 14:06:30,671 INFO 12488 [Timer] D:\Teach\React\exam-manage\exam-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 35610330ms at 2020-06-17 00:00:01.001
+2020-06-16 14:06:30,671 INFO 12488 [Timer] D:\Teach\React\exam-manage\exam-server\node_modules\egg-alinode\app\schedule\removeLogs.js next time will execute after 35609329ms at 2020-06-17 00:00:00.000
+2020-06-16 14:16:59,761 INFO 16940 [egg-schedule]: register schedule D:\Teach\React\exam-manage\exam-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-16 14:16:59,762 INFO 16940 [egg-schedule]: register schedule D:\Teach\React\exam-manage\exam-server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-16 14:16:59,762 INFO 16940 [egg-schedule]: register schedule D:\Teach\React\exam-manage\exam-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-16 14:16:59,762 INFO 16940 [egg-schedule]: register schedule D:\Teach\React\exam-manage\exam-server\node_modules\egg-alinode\app\schedule\removeLogs.js
+2020-06-16 14:17:00,958 INFO 13684 [Timer] D:\Teach\React\exam-manage\exam-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 51179047ms at 2020-06-17 04:30:00.005
+2020-06-16 14:17:00,959 INFO 13684 [Timer] D:\Teach\React\exam-manage\exam-server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 34979041ms at 2020-06-17 00:00:00.000
+2020-06-16 14:17:00,960 INFO 13684 [Timer] D:\Teach\React\exam-manage\exam-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 34980041ms at 2020-06-17 00:00:01.001
+2020-06-16 14:17:00,960 INFO 13684 [Timer] D:\Teach\React\exam-manage\exam-server\node_modules\egg-alinode\app\schedule\removeLogs.js next time will execute after 34979040ms at 2020-06-17 00:00:00.000
+2020-06-17 08:22:57,515 INFO 16940 [Job#15923533774821446547619781001] D:\Teach\React\exam-manage\exam-server\node_modules\egg-logrotator\app\schedule\clean_log.js executing by app
+2020-06-17 08:22:57,521 INFO 16940 [Job#15923533774911446547712590001] D:\Teach\React\exam-manage\exam-server\node_modules\egg-alinode\app\schedule\removeLogs.js executing by app
+2020-06-17 08:22:57,523 INFO 16940 [Job#15923533774961446547762732001] D:\Teach\React\exam-manage\exam-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js executing by app
+2020-06-17 08:22:57,533 INFO 16940 [Job#15923533775001446547798499001] D:\Teach\React\exam-manage\exam-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js executing by app
+2020-06-17 08:22:57,536 INFO 16940 [Job#15923533774911446547712590001] D:\Teach\React\exam-manage\exam-server\node_modules\egg-alinode\app\schedule\removeLogs.js execute succeed, used 15ms
+2020-06-17 08:22:57,538 INFO 16940 [Job#15923533774821446547619781001] D:\Teach\React\exam-manage\exam-server\node_modules\egg-logrotator\app\schedule\clean_log.js execute succeed, used 20ms
+2020-06-17 08:22:57,542 INFO 16940 [Job#15923533774961446547762732001] D:\Teach\React\exam-manage\exam-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js execute succeed, used 19ms
+2020-06-17 08:22:57,491 INFO 13684 [Timer] D:\Teach\React\exam-manage\exam-server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 56222515ms at 2020-06-18 00:00:00.006
+2020-06-17 08:22:57,496 INFO 13684 [Timer] D:\Teach\React\exam-manage\exam-server\node_modules\egg-alinode\app\schedule\removeLogs.js next time will execute after 56222508ms at 2020-06-18 00:00:00.004
+2020-06-17 08:22:57,500 INFO 13684 [Timer] D:\Teach\React\exam-manage\exam-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 56223503ms at 2020-06-18 00:00:01.003
+2020-06-17 08:22:57,504 INFO 13684 [Timer] D:\Teach\React\exam-manage\exam-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 72422500ms at 2020-06-18 04:30:00.004

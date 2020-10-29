@@ -1,0 +1,311 @@
+{
+  "keys": "G:\\web\\实训二\\实训二 项目\\后台\\config\\config.default.js",
+  "log": "G:\\web\\实训二\\实训二 项目\\后台\\config\\config.default.js",
+  "security": {
+    "csrf": {
+      "enable": "G:\\web\\实训二\\实训二 项目\\后台\\config\\config.default.js",
+      "type": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "ignoreJSON": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "useSession": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "cookieName": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "sessionName": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "headerName": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "bodyName": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "queryName": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "refererWhiteList": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "domainWhiteList": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+    "protocolWhiteList": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+    "defaultMiddleware": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+    "xframe": {
+      "enable": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "value": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.local.js",
+      "maxAge": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "includeSubdomains": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "value": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "value": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "policy": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "checkAddress": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    }
+  },
+  "mysql": {
+    "client": {
+      "host": "G:\\web\\实训二\\实训二 项目\\后台\\config\\config.default.js",
+      "port": "G:\\web\\实训二\\实训二 项目\\后台\\config\\config.default.js",
+      "user": "G:\\web\\实训二\\实训二 项目\\后台\\config\\config.default.js",
+      "password": "G:\\web\\实训二\\实训二 项目\\后台\\config\\config.default.js",
+      "database": "G:\\web\\实训二\\实训二 项目\\后台\\config\\config.default.js"
+    },
+    "default": {
+      "database": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-mysql@3.0.0@egg-mysql\\config\\config.default.js",
+      "connectionLimit": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-mysql@3.0.0@egg-mysql\\config\\config.default.js"
+    },
+    "app": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-mysql@3.0.0@egg-mysql\\config\\config.default.js",
+    "agent": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-mysql@3.0.0@egg-mysql\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "G:\\web\\实训二\\实训二 项目\\后台\\config\\config.default.js",
+    "dir": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "dynamic": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "preload": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "buffer": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "maxFiles": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "G:\\web\\实训二\\实训二 项目\\后台\\config\\config.default.js",
+    "autoFields": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "defaultCharset": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fieldSize": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fields": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fileSize": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "files": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fileExtensions": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "whitelist": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "tmpdir": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js"
+    }
+  },
+  "questionsRootPath": "G:\\web\\实训二\\实训二 项目\\后台\\config\\config.default.js",
+  "answersRootPath": "G:\\web\\实训二\\实训二 项目\\后台\\config\\config.default.js",
+  "whiteList": "G:\\web\\实训二\\实训二 项目\\后台\\config\\config.default.js",
+  "identityWhiteList": "G:\\web\\实训二\\实训二 项目\\后台\\config\\config.default.js",
+  "loginWhiteList": "G:\\web\\实训二\\实训二 项目\\后台\\config\\config.default.js",
+  "alinode": {
+    "appid": "G:\\web\\实训二\\实训二 项目\\后台\\config\\config.default.js",
+    "secret": "G:\\web\\实训二\\实训二 项目\\后台\\config\\config.default.js",
+    "enable": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-alinode@2.0.1@egg-alinode\\config\\config.default.js",
+    "server": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-alinode@2.0.1@egg-alinode\\config\\config.default.js",
+    "cmddir": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-alinode@2.0.1@egg-alinode\\config\\config.default.js",
+    "logdir": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-alinode@2.0.1@egg-alinode\\config\\config.default.js",
+    "error_log": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-alinode@2.0.1@egg-alinode\\config\\config.default.js",
+    "packages": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-alinode@2.0.1@egg-alinode\\config\\config.default.js",
+    "reconnectDelay": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-alinode@2.0.1@egg-alinode\\config\\config.default.js",
+    "heartbeatInterval": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-alinode@2.0.1@egg-alinode\\config\\config.default.js",
+    "reportInterval": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-alinode@2.0.1@egg-alinode\\config\\config.default.js"
+  },
+  "session": {
+    "maxAge": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js",
+    "key": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js",
+    "httpOnly": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js",
+    "encrypt": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js"
+  },
+  "helper": {
+    "shtml": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "callback": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "csrf": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "templatePath": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "dirs": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "queryField": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieField": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieDomain": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.default.js",
+      "development": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-schedule@3.6.5@egg-schedule\\config\\config.default.js",
+      "file": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-schedule@3.6.5@egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-schedule@3.6.5@egg-schedule\\config\\config.default.js"
+  },
+  "development": {
+    "watchDirs": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "ignoreDirs": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "fastReady": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "reloadOnDebug": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "overrideDefault": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "overrideIgnore": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxFiles": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxDays": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js"
+  },
+  "view": {
+    "root": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
+    "cache": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.local.js",
+    "defaultExtension": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
+    "defaultViewEngine": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
+    "mapping": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js"
+  },
+  "validate": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg-validate@2.0.2@egg-validate\\config\\config.default.js",
+  "env": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+  "name": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+  "cookies": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+  "proxy": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+  "maxIpsCount": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+  "maxProxyCount": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+  "protocolHeaders": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+  "ipHeaders": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+  "hostHeaders": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+  "pkg": {
+    "name": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "version": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "description": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "main": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "scripts": {
+      "dev": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "test": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "start": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "stop": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js"
+    },
+    "author": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "license": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "dependencies": {
+      "egg": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "egg-alinode": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "egg-mysql": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "egg-scripts": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "egg-validate": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "jsonwebtoken": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "markdown-it": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "monaco-editor": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "node-xlsx": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "egg-mock": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js"
+    }
+  },
+  "baseDir": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+  "HOME": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+  "rundir": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "notFound": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "sitefile": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "middlewares": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "httpClient": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "encoding": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "formLimit": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "jsonLimit": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "textLimit": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "strict": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "depth": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "parameterLimit": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js"
+    },
+    "onerror": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js"
+  },
+  "logger": {
+    "dir": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "encoding": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "env": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "level": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "consoleLevel": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "outputJSON": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "buffer": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "appLogName": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "coreLogName": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "agentLogName": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "errorLogName": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "request": {
+      "timeout": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "freeSocketTimeout": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "maxSockets": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "maxFreeSockets": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "freeSocketTimeout": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "maxSockets": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "maxFreeSockets": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "logging": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+  "workerStartTimeout": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+  "serverTimeout": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "port": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "hostname": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "responseTimeout": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js"
+  },
+  "onClientError": "G:\\web\\实训二\\实训二 项目\\后台\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js"
+}

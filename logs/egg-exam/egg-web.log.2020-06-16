@@ -1,0 +1,590 @@
+2019-08-30 15:28:08,939 INFO 4528 [egg:logger] init all loggers with options: {"dir":"D:\\Teach\\__project\\egg-exam\\logs\\egg-exam","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-exam-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-30 15:28:09,003 INFO 4528 [egg-multipart] file mode enable
+2019-08-30 15:28:09,003 INFO 4528 [egg-multipart] will save temporary files to "C:\\Users\\Nan\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-exam", cleanup job cron: "0 30 4 * * *"
+2019-08-30 15:28:09,003 INFO 4528 [egg-mysql] connecting root@localhost:3306/exam
+2019-08-30 15:28:10,971 INFO 4528 [egg-static] starting static serve /public/ -> D:\Teach\__project\egg-exam\app\public
+2019-08-30 15:28:10,978 INFO 4528 [egg-security] use methodnoallow middleware
+2019-08-30 15:28:10,983 INFO 4528 [egg-security] use noopen middleware
+2019-08-30 15:28:10,988 INFO 4528 [egg-security] use nosniff middleware
+2019-08-30 15:28:10,992 INFO 4528 [egg-security] use xssProtection middleware
+2019-08-30 15:28:10,995 INFO 4528 [egg-security] use xframe middleware
+2019-08-30 15:28:11,001 INFO 4528 [egg-security] use dta middleware
+2019-08-30 15:28:11,001 INFO 4528 [egg-security] compose 6 middlewares into one security middleware
+2019-08-30 15:28:11,048 INFO 4528 [egg:core] dump config after load, 24ms
+2019-08-30 15:30:43,141 INFO 15008 [egg:logger] init all loggers with options: {"dir":"D:\\Teach\\__project\\egg-exam\\logs\\egg-exam","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-exam-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-30 15:30:43,221 INFO 15008 [egg-multipart] file mode enable
+2019-08-30 15:30:43,222 INFO 15008 [egg-multipart] will save temporary files to "C:\\Users\\Nan\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-exam", cleanup job cron: "0 30 4 * * *"
+2019-08-30 15:30:43,222 INFO 15008 [egg-mysql] connecting root@localhost:3306/exam
+2019-08-30 15:30:43,921 INFO 15008 [egg-static] starting static serve /public/ -> D:\Teach\__project\egg-exam\app\public
+2019-08-30 15:30:43,927 INFO 15008 [egg-security] use methodnoallow middleware
+2019-08-30 15:30:43,929 INFO 15008 [egg-security] use noopen middleware
+2019-08-30 15:30:43,932 INFO 15008 [egg-security] use nosniff middleware
+2019-08-30 15:30:43,934 INFO 15008 [egg-security] use xssProtection middleware
+2019-08-30 15:30:43,935 INFO 15008 [egg-security] use xframe middleware
+2019-08-30 15:30:43,936 INFO 15008 [egg-security] use dta middleware
+2019-08-30 15:30:43,936 INFO 15008 [egg-security] compose 6 middlewares into one security middleware
+2019-08-30 15:30:44,030 INFO 15008 [egg:core] dump config after load, 42ms
+2019-08-30 15:30:44,067 INFO 15008 [egg-watcher:application] watcher start success
+2019-08-30 15:30:44,074 INFO 15008 [egg-mysql] instance[0] status OK, rds currentTime: Fri Aug 30 2019 15:30:44 GMT+0800 (GMT+08:00)
+2019-08-30 15:30:44,119 INFO 15008 [egg:core] dump config after ready, 41ms
+2019-08-30 15:51:19,121 WARN 15008 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-08-30 15:51:19,124 WARN 15008 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-02 15:01:31,859 INFO 16272 [egg:logger] init all loggers with options: {"dir":"D:\\Teach\\__project\\egg-exam\\logs\\egg-exam","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-exam-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-02 15:01:32,015 INFO 16272 [egg-multipart] file mode enable
+2019-09-02 15:01:32,015 INFO 16272 [egg-multipart] will save temporary files to "C:\\Users\\Nan\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-exam", cleanup job cron: "0 30 4 * * *"
+2019-09-02 15:01:32,018 INFO 16272 [egg-mysql] connecting root@localhost:3306/exam
+2019-09-02 15:01:35,637 INFO 16272 [egg-static] starting static serve /public/ -> D:\Teach\__project\egg-exam\app\public
+2019-09-02 15:01:35,649 INFO 16272 [egg-security] use methodnoallow middleware
+2019-09-02 15:01:35,657 INFO 16272 [egg-security] use noopen middleware
+2019-09-02 15:01:35,666 INFO 16272 [egg-security] use nosniff middleware
+2019-09-02 15:01:35,673 INFO 16272 [egg-security] use xssProtection middleware
+2019-09-02 15:01:35,681 INFO 16272 [egg-security] use xframe middleware
+2019-09-02 15:01:35,683 INFO 16272 [egg-security] use dta middleware
+2019-09-02 15:01:35,683 INFO 16272 [egg-security] compose 6 middlewares into one security middleware
+2019-09-02 15:01:35,868 INFO 16272 [egg:core] dump config after load, 33ms
+2019-09-02 15:01:35,896 INFO 16272 [egg-watcher:application] watcher start success
+2019-09-02 15:01:35,900 INFO 16272 [egg-mysql] instance[0] status OK, rds currentTime: Mon Sep 02 2019 15:01:35 GMT+0800 (GMT+08:00)
+2019-09-02 15:01:35,942 INFO 16272 [egg:core] dump config after ready, 39ms
+2019-09-04 15:10:36,086 INFO 120088 [egg:logger] init all loggers with options: {"dir":"D:\\Teach\\__project\\egg-exam\\logs\\egg-exam","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-exam-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-04 15:10:36,171 INFO 120088 [egg-multipart] file mode enable
+2019-09-04 15:10:36,171 INFO 120088 [egg-multipart] will save temporary files to "C:\\Users\\Nan\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-exam", cleanup job cron: "0 30 4 * * *"
+2019-09-04 15:10:36,172 INFO 120088 [egg-mysql] connecting root@localhost:3306/exam
+2019-09-04 15:10:39,847 INFO 120088 [egg-static] starting static serve /public/ -> D:\Teach\__project\egg-exam\app\public
+2019-09-04 15:10:39,863 INFO 120088 [egg-security] use methodnoallow middleware
+2019-09-04 15:10:39,871 INFO 120088 [egg-security] use noopen middleware
+2019-09-04 15:10:39,881 INFO 120088 [egg-security] use nosniff middleware
+2019-09-04 15:10:39,890 INFO 120088 [egg-security] use xssProtection middleware
+2019-09-04 15:10:39,904 INFO 120088 [egg-security] use xframe middleware
+2019-09-04 15:10:39,913 INFO 120088 [egg-security] use dta middleware
+2019-09-04 15:10:39,913 INFO 120088 [egg-security] compose 6 middlewares into one security middleware
+2019-09-04 15:10:40,158 INFO 120088 [egg:core] dump config after load, 40ms
+2019-09-04 15:10:40,190 INFO 120088 [egg-watcher:application] watcher start success
+2019-09-04 15:10:40,195 INFO 120088 [egg-mysql] instance[0] status OK, rds currentTime: Wed Sep 04 2019 15:10:40 GMT+0800 (GMT+08:00)
+2019-09-04 15:10:40,246 INFO 120088 [egg:core] dump config after ready, 48ms
+2019-09-04 15:48:09,686 WARN 120088 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-04 19:03:53,538 INFO 234752 [egg:logger] init all loggers with options: {"dir":"D:\\Teach\\__project\\egg-exam\\logs\\egg-exam","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-exam-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-04 19:03:53,581 INFO 234752 [egg-multipart] file mode enable
+2019-09-04 19:03:53,581 INFO 234752 [egg-multipart] will save temporary files to "C:\\Users\\Nan\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-exam", cleanup job cron: "0 30 4 * * *"
+2019-09-04 19:03:53,582 INFO 234752 [egg-mysql] connecting root@localhost:3306/exam
+2019-09-04 19:03:53,952 INFO 234752 [egg-static] starting static serve /public/ -> D:\Teach\__project\egg-exam\app\public
+2019-09-04 19:03:53,955 INFO 234752 [egg-security] use methodnoallow middleware
+2019-09-04 19:03:53,955 INFO 234752 [egg-security] use noopen middleware
+2019-09-04 19:03:53,957 INFO 234752 [egg-security] use nosniff middleware
+2019-09-04 19:03:53,957 INFO 234752 [egg-security] use xssProtection middleware
+2019-09-04 19:03:53,958 INFO 234752 [egg-security] use xframe middleware
+2019-09-04 19:03:53,958 INFO 234752 [egg-security] use dta middleware
+2019-09-04 19:03:53,958 INFO 234752 [egg-security] compose 6 middlewares into one security middleware
+2019-09-04 19:03:54,003 INFO 234752 [egg:core] dump config after load, 23ms
+2019-09-04 19:03:54,020 INFO 234752 [egg-watcher:application] watcher start success
+2019-09-04 19:03:54,022 INFO 234752 [egg-mysql] instance[0] status OK, rds currentTime: Wed Sep 04 2019 19:03:54 GMT+0800 (GMT+08:00)
+2019-09-04 19:03:54,054 INFO 234752 [egg:core] dump config after ready, 30ms
+2019-12-16 08:44:57,036 INFO 17556 [egg:logger] init all loggers with options: {"dir":"D:\\Teach\\__project\\egg-exam\\logs\\egg-exam","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-exam-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-12-16 08:44:57,310 INFO 17556 [egg-multipart] file mode enable
+2019-12-16 08:44:57,310 INFO 17556 [egg-multipart] will save temporary files to "C:\\Users\\Nan\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-exam", cleanup job cron: "0 30 4 * * *"
+2019-12-16 08:44:57,311 INFO 17556 [egg-mysql] connecting root@localhost:3306/exam
+2019-12-16 08:45:03,867 INFO 17556 [egg-static] starting static serve /public/ -> D:\Teach\__project\egg-exam\app\public
+2019-12-16 08:45:03,895 INFO 17556 [egg-security] use methodnoallow middleware
+2019-12-16 08:45:03,911 INFO 17556 [egg-security] use noopen middleware
+2019-12-16 08:45:03,930 INFO 17556 [egg-security] use nosniff middleware
+2019-12-16 08:45:03,947 INFO 17556 [egg-security] use xssProtection middleware
+2019-12-16 08:45:03,961 INFO 17556 [egg-security] use xframe middleware
+2019-12-16 08:45:03,976 INFO 17556 [egg-security] use dta middleware
+2019-12-16 08:45:03,976 INFO 17556 [egg-security] compose 6 middlewares into one security middleware
+2019-12-16 08:45:04,600 INFO 17556 [egg:core] dump config after load, 86ms
+2019-12-16 08:45:04,684 INFO 17556 [egg-watcher:application] watcher start success
+2019-12-16 08:45:04,695 INFO 17556 [egg-mysql] instance[0] status OK, rds currentTime: Mon Dec 16 2019 08:45:04 GMT+0800 (GMT+08:00)
+2019-12-16 08:45:04,782 INFO 17556 [egg:core] dump config after ready, 83ms
+2019-12-16 08:57:04,944 INFO 20132 [egg:logger] init all loggers with options: {"dir":"D:\\Teach\\__project\\egg-exam\\logs\\egg-exam","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-exam-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-12-16 08:57:05,020 INFO 20132 [egg-multipart] file mode enable
+2019-12-16 08:57:05,020 INFO 20132 [egg-multipart] will save temporary files to "C:\\Users\\Nan\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-exam", cleanup job cron: "0 30 4 * * *"
+2019-12-16 08:57:05,021 INFO 20132 [egg-mysql] connecting root@localhost:3306/exam
+2019-12-16 08:57:07,451 INFO 20132 [egg-static] starting static serve /public/ -> D:\Teach\__project\egg-exam\app\public
+2019-12-16 08:57:07,464 INFO 20132 [egg-security] use methodnoallow middleware
+2019-12-16 08:57:07,472 INFO 20132 [egg-security] use noopen middleware
+2019-12-16 08:57:07,481 INFO 20132 [egg-security] use nosniff middleware
+2019-12-16 08:57:07,486 INFO 20132 [egg-security] use xssProtection middleware
+2019-12-16 08:57:07,492 INFO 20132 [egg-security] use xframe middleware
+2019-12-16 08:57:07,498 INFO 20132 [egg-security] use dta middleware
+2019-12-16 08:57:07,498 INFO 20132 [egg-security] compose 6 middlewares into one security middleware
+2019-12-16 08:57:07,570 INFO 20132 [egg:core] dump config after load, 28ms
+2019-12-16 08:57:07,591 INFO 20132 [egg-watcher:application] watcher start success
+2019-12-16 08:57:07,595 INFO 20132 [egg-mysql] instance[0] status OK, rds currentTime: Mon Dec 16 2019 08:57:07 GMT+0800 (GMT+08:00)
+2019-12-16 08:57:07,632 INFO 20132 [egg:core] dump config after ready, 35ms
+2020-06-15 14:48:03,190 INFO 12020 [egg:logger] init all loggers with options: {"dir":"D:\\Teach\\__project\\egg-exam\\logs\\egg-exam","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-exam-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-15 14:48:03,252 INFO 12020 [egg-multipart] file mode enable
+2020-06-15 14:48:03,252 INFO 12020 [egg-multipart] will save temporary files to "C:\\Users\\Nan\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-exam", cleanup job cron: "0 30 4 * * *"
+2020-06-15 14:48:03,253 INFO 12020 [egg-mysql] connecting root@localhost:3306/exam
+2020-06-15 14:48:07,244 INFO 12020 [egg-static] starting static serve /public/ -> D:\Teach\__project\egg-exam\app\public
+2020-06-15 14:48:07,263 INFO 12020 [egg-security] use methodnoallow middleware
+2020-06-15 14:48:07,276 INFO 12020 [egg-security] use noopen middleware
+2020-06-15 14:48:07,290 INFO 12020 [egg-security] use nosniff middleware
+2020-06-15 14:48:07,302 INFO 12020 [egg-security] use xssProtection middleware
+2020-06-15 14:48:07,317 INFO 12020 [egg-security] use xframe middleware
+2020-06-15 14:48:07,319 INFO 12020 [egg-security] use dta middleware
+2020-06-15 14:48:07,319 INFO 12020 [egg-security] compose 6 middlewares into one security middleware
+2020-06-15 14:48:07,571 INFO 12020 [egg:core] dump config after load, 52ms
+2020-06-15 14:48:07,608 INFO 12020 [egg-watcher:application] watcher start success
+2020-06-15 14:48:07,614 INFO 12020 [egg-mysql] instance[0] status OK, rds currentTime: Mon Jun 15 2020 14:48:07 GMT+0800 (GMT+08:00)
+2020-06-15 14:48:07,676 INFO 12020 [egg:core] dump config after ready, 59ms
+2020-06-15 15:03:03,113 INFO 10620 [egg:logger] init all loggers with options: {"dir":"D:\\Teach\\__project\\egg-exam\\logs\\egg-exam","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-exam-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-15 15:03:03,162 INFO 10620 [egg-multipart] file mode enable
+2020-06-15 15:03:03,162 INFO 10620 [egg-multipart] will save temporary files to "C:\\Users\\Nan\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-exam", cleanup job cron: "0 30 4 * * *"
+2020-06-15 15:03:03,163 INFO 10620 [egg-mysql] connecting root@localhost:3306/exam
+2020-06-15 15:03:03,629 INFO 10620 [egg-static] starting static serve /public/ -> D:\Teach\__project\egg-exam\app\public
+2020-06-15 15:03:03,632 INFO 10620 [egg-security] use methodnoallow middleware
+2020-06-15 15:03:03,633 INFO 10620 [egg-security] use noopen middleware
+2020-06-15 15:03:03,634 INFO 10620 [egg-security] use nosniff middleware
+2020-06-15 15:03:03,635 INFO 10620 [egg-security] use xssProtection middleware
+2020-06-15 15:03:03,637 INFO 10620 [egg-security] use xframe middleware
+2020-06-15 15:03:03,638 INFO 10620 [egg-security] use dta middleware
+2020-06-15 15:03:03,638 INFO 10620 [egg-security] compose 6 middlewares into one security middleware
+2020-06-15 15:03:03,722 INFO 10620 [egg:core] dump config after load, 31ms
+2020-06-15 15:03:03,748 INFO 10620 [egg-watcher:application] watcher start success
+2020-06-15 15:03:03,751 INFO 10620 [egg-mysql] instance[0] status OK, rds currentTime: Mon Jun 15 2020 15:03:03 GMT+0800 (GMT+08:00)
+2020-06-15 15:03:03,791 INFO 10620 [egg:core] dump config after ready, 39ms
+2020-06-15 15:03:05,415 INFO 15572 [egg:logger] init all loggers with options: {"dir":"D:\\Teach\\__project\\egg-exam\\logs\\egg-exam","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-exam-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-15 15:03:05,474 INFO 15572 [egg-multipart] file mode enable
+2020-06-15 15:03:05,474 INFO 15572 [egg-multipart] will save temporary files to "C:\\Users\\Nan\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-exam", cleanup job cron: "0 30 4 * * *"
+2020-06-15 15:03:05,475 INFO 15572 [egg-mysql] connecting root@localhost:3306/exam
+2020-06-15 15:03:06,088 INFO 15572 [egg-static] starting static serve /public/ -> D:\Teach\__project\egg-exam\app\public
+2020-06-15 15:03:06,094 INFO 15572 [egg-security] use methodnoallow middleware
+2020-06-15 15:03:06,095 INFO 15572 [egg-security] use noopen middleware
+2020-06-15 15:03:06,096 INFO 15572 [egg-security] use nosniff middleware
+2020-06-15 15:03:06,097 INFO 15572 [egg-security] use xssProtection middleware
+2020-06-15 15:03:06,098 INFO 15572 [egg-security] use xframe middleware
+2020-06-15 15:03:06,100 INFO 15572 [egg-security] use dta middleware
+2020-06-15 15:03:06,100 INFO 15572 [egg-security] compose 6 middlewares into one security middleware
+2020-06-15 15:03:06,201 INFO 15572 [egg:core] dump config after load, 62ms
+2020-06-15 15:03:06,234 INFO 15572 [egg-watcher:application] watcher start success
+2020-06-15 15:03:06,238 INFO 15572 [egg-mysql] instance[0] status OK, rds currentTime: Mon Jun 15 2020 15:03:06 GMT+0800 (GMT+08:00)
+2020-06-15 15:03:06,298 INFO 15572 [egg:core] dump config after ready, 58ms
+2020-06-15 15:03:17,125 INFO 3928 [egg:logger] init all loggers with options: {"dir":"D:\\Teach\\__project\\egg-exam\\logs\\egg-exam","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-exam-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-15 15:03:17,187 INFO 3928 [egg-multipart] file mode enable
+2020-06-15 15:03:17,187 INFO 3928 [egg-multipart] will save temporary files to "C:\\Users\\Nan\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-exam", cleanup job cron: "0 30 4 * * *"
+2020-06-15 15:03:17,187 INFO 3928 [egg-mysql] connecting root@localhost:3306/exam
+2020-06-15 15:03:17,688 INFO 3928 [egg-static] starting static serve /public/ -> D:\Teach\__project\egg-exam\app\public
+2020-06-15 15:03:17,692 INFO 3928 [egg-security] use methodnoallow middleware
+2020-06-15 15:03:17,693 INFO 3928 [egg-security] use noopen middleware
+2020-06-15 15:03:17,694 INFO 3928 [egg-security] use nosniff middleware
+2020-06-15 15:03:17,694 INFO 3928 [egg-security] use xssProtection middleware
+2020-06-15 15:03:17,695 INFO 3928 [egg-security] use xframe middleware
+2020-06-15 15:03:17,696 INFO 3928 [egg-security] use dta middleware
+2020-06-15 15:03:17,696 INFO 3928 [egg-security] compose 6 middlewares into one security middleware
+2020-06-15 15:03:17,765 INFO 3928 [egg:core] dump config after load, 40ms
+2020-06-15 15:03:17,795 INFO 3928 [egg-watcher:application] watcher start success
+2020-06-15 15:03:17,799 INFO 3928 [egg-mysql] instance[0] status OK, rds currentTime: Mon Jun 15 2020 15:03:17 GMT+0800 (GMT+08:00)
+2020-06-15 15:03:17,860 INFO 3928 [egg:core] dump config after ready, 58ms
+2020-06-15 15:20:51,687 INFO 1072 [egg:logger] init all loggers with options: {"dir":"D:\\Teach\\__project\\egg-exam\\logs\\egg-exam","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-exam-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-15 15:20:51,751 INFO 1072 [egg-multipart] file mode enable
+2020-06-15 15:20:51,751 INFO 1072 [egg-multipart] will save temporary files to "C:\\Users\\Nan\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-exam", cleanup job cron: "0 30 4 * * *"
+2020-06-15 15:20:51,752 INFO 1072 [egg-mysql] connecting root@localhost:3306/exam
+2020-06-15 15:20:52,293 INFO 1072 [egg-static] starting static serve /public/ -> D:\Teach\__project\egg-exam\app\public
+2020-06-15 15:20:52,297 INFO 1072 [egg-security] use methodnoallow middleware
+2020-06-15 15:20:52,298 INFO 1072 [egg-security] use noopen middleware
+2020-06-15 15:20:52,299 INFO 1072 [egg-security] use nosniff middleware
+2020-06-15 15:20:52,300 INFO 1072 [egg-security] use xssProtection middleware
+2020-06-15 15:20:52,302 INFO 1072 [egg-security] use xframe middleware
+2020-06-15 15:20:52,303 INFO 1072 [egg-security] use dta middleware
+2020-06-15 15:20:52,303 INFO 1072 [egg-security] compose 6 middlewares into one security middleware
+2020-06-15 15:20:52,389 INFO 1072 [egg:core] dump config after load, 50ms
+2020-06-15 15:20:52,425 INFO 1072 [egg-watcher:application] watcher start success
+2020-06-15 15:20:52,429 INFO 1072 [egg-mysql] instance[0] status OK, rds currentTime: Mon Jun 15 2020 15:20:52 GMT+0800 (GMT+08:00)
+2020-06-15 15:20:52,496 INFO 1072 [egg:core] dump config after ready, 64ms
+2020-06-15 15:22:20,761 INFO 3252 [egg:logger] init all loggers with options: {"dir":"D:\\Teach\\__project\\egg-exam\\logs\\egg-exam","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-exam-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-15 15:22:20,830 INFO 3252 [egg-multipart] file mode enable
+2020-06-15 15:22:20,830 INFO 3252 [egg-multipart] will save temporary files to "C:\\Users\\Nan\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-exam", cleanup job cron: "0 30 4 * * *"
+2020-06-15 15:22:20,831 INFO 3252 [egg-mysql] connecting root@localhost:3306/exam
+2020-06-15 15:22:21,492 INFO 3252 [egg-static] starting static serve /public/ -> D:\Teach\__project\egg-exam\app\public
+2020-06-15 15:22:21,500 INFO 3252 [egg-security] use methodnoallow middleware
+2020-06-15 15:22:21,502 INFO 3252 [egg-security] use noopen middleware
+2020-06-15 15:22:21,505 INFO 3252 [egg-security] use nosniff middleware
+2020-06-15 15:22:21,507 INFO 3252 [egg-security] use xssProtection middleware
+2020-06-15 15:22:21,508 INFO 3252 [egg-security] use xframe middleware
+2020-06-15 15:22:21,510 INFO 3252 [egg-security] use dta middleware
+2020-06-15 15:22:21,510 INFO 3252 [egg-security] compose 6 middlewares into one security middleware
+2020-06-15 15:22:21,622 INFO 3252 [egg:core] dump config after load, 57ms
+2020-06-15 15:22:21,655 INFO 3252 [egg-watcher:application] watcher start success
+2020-06-15 15:22:21,663 INFO 3252 [egg-mysql] instance[0] status OK, rds currentTime: Mon Jun 15 2020 15:22:21 GMT+0800 (GMT+08:00)
+2020-06-15 15:22:21,771 INFO 3252 [egg:core] dump config after ready, 98ms
+2020-06-15 15:27:11,904 INFO 14032 [egg:logger] init all loggers with options: {"dir":"D:\\Teach\\__project\\egg-exam\\logs\\egg-exam","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-exam-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-15 15:27:11,999 INFO 14032 [egg-multipart] file mode enable
+2020-06-15 15:27:11,999 INFO 14032 [egg-multipart] will save temporary files to "C:\\Users\\Nan\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-exam", cleanup job cron: "0 30 4 * * *"
+2020-06-15 15:27:11,999 INFO 14032 [egg-mysql] connecting root@localhost:3306/exam
+2020-06-15 15:27:12,801 INFO 14032 [egg-static] starting static serve /public/ -> D:\Teach\__project\egg-exam\app\public
+2020-06-15 15:27:12,807 INFO 14032 [egg-security] use methodnoallow middleware
+2020-06-15 15:27:12,808 INFO 14032 [egg-security] use noopen middleware
+2020-06-15 15:27:12,810 INFO 14032 [egg-security] use nosniff middleware
+2020-06-15 15:27:12,811 INFO 14032 [egg-security] use xssProtection middleware
+2020-06-15 15:27:12,814 INFO 14032 [egg-security] use xframe middleware
+2020-06-15 15:27:12,815 INFO 14032 [egg-security] use dta middleware
+2020-06-15 15:27:12,815 INFO 14032 [egg-security] compose 6 middlewares into one security middleware
+2020-06-15 15:27:12,920 INFO 14032 [egg:core] dump config after load, 51ms
+2020-06-15 15:27:12,962 INFO 14032 [egg-watcher:application] watcher start success
+2020-06-15 15:27:12,970 INFO 14032 [egg-mysql] instance[0] status OK, rds currentTime: Mon Jun 15 2020 15:27:12 GMT+0800 (GMT+08:00)
+2020-06-15 15:27:13,047 INFO 14032 [egg:core] dump config after ready, 74ms
+2020-06-15 15:30:43,250 INFO 6016 [egg:logger] init all loggers with options: {"dir":"D:\\Teach\\__project\\egg-exam\\logs\\egg-exam","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-exam-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-15 15:30:43,359 INFO 6016 [egg-multipart] file mode enable
+2020-06-15 15:30:43,359 INFO 6016 [egg-multipart] will save temporary files to "C:\\Users\\Nan\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-exam", cleanup job cron: "0 30 4 * * *"
+2020-06-15 15:30:43,360 INFO 6016 [egg-mysql] connecting root@localhost:3306/exam
+2020-06-15 15:30:44,084 INFO 6016 [egg-static] starting static serve /public/ -> D:\Teach\__project\egg-exam\app\public
+2020-06-15 15:30:44,089 INFO 6016 [egg-security] use methodnoallow middleware
+2020-06-15 15:30:44,090 INFO 6016 [egg-security] use noopen middleware
+2020-06-15 15:30:44,091 INFO 6016 [egg-security] use nosniff middleware
+2020-06-15 15:30:44,092 INFO 6016 [egg-security] use xssProtection middleware
+2020-06-15 15:30:44,093 INFO 6016 [egg-security] use xframe middleware
+2020-06-15 15:30:44,094 INFO 6016 [egg-security] use dta middleware
+2020-06-15 15:30:44,094 INFO 6016 [egg-security] compose 6 middlewares into one security middleware
+2020-06-15 15:30:44,189 INFO 6016 [egg:core] dump config after load, 49ms
+2020-06-15 15:30:44,222 INFO 6016 [egg-watcher:application] watcher start success
+2020-06-15 15:30:44,233 INFO 6016 [egg-mysql] instance[0] status OK, rds currentTime: Mon Jun 15 2020 15:30:44 GMT+0800 (GMT+08:00)
+2020-06-15 15:30:44,314 INFO 6016 [egg:core] dump config after ready, 75ms
+2020-06-15 15:30:47,163 INFO 2216 [egg:logger] init all loggers with options: {"dir":"D:\\Teach\\__project\\egg-exam\\logs\\egg-exam","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-exam-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-15 15:30:47,223 INFO 2216 [egg-multipart] file mode enable
+2020-06-15 15:30:47,223 INFO 2216 [egg-multipart] will save temporary files to "C:\\Users\\Nan\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-exam", cleanup job cron: "0 30 4 * * *"
+2020-06-15 15:30:47,224 INFO 2216 [egg-mysql] connecting root@localhost:3306/exam
+2020-06-15 15:30:47,960 INFO 2216 [egg-static] starting static serve /public/ -> D:\Teach\__project\egg-exam\app\public
+2020-06-15 15:30:47,967 INFO 2216 [egg-security] use methodnoallow middleware
+2020-06-15 15:30:47,969 INFO 2216 [egg-security] use noopen middleware
+2020-06-15 15:30:47,973 INFO 2216 [egg-security] use nosniff middleware
+2020-06-15 15:30:47,975 INFO 2216 [egg-security] use xssProtection middleware
+2020-06-15 15:30:47,977 INFO 2216 [egg-security] use xframe middleware
+2020-06-15 15:30:47,978 INFO 2216 [egg-security] use dta middleware
+2020-06-15 15:30:47,978 INFO 2216 [egg-security] compose 6 middlewares into one security middleware
+2020-06-15 15:30:48,131 INFO 2216 [egg:core] dump config after load, 88ms
+2020-06-15 15:30:48,192 INFO 2216 [egg-watcher:application] watcher start success
+2020-06-15 15:30:48,211 INFO 2216 [egg-mysql] instance[0] status OK, rds currentTime: Mon Jun 15 2020 15:30:48 GMT+0800 (GMT+08:00)
+2020-06-15 15:30:48,341 INFO 2216 [egg:core] dump config after ready, 122ms
+2020-06-15 15:31:27,898 INFO 14996 [egg:logger] init all loggers with options: {"dir":"D:\\Teach\\__project\\egg-exam\\logs\\egg-exam","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-exam-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-15 15:31:27,956 INFO 14996 [egg-multipart] file mode enable
+2020-06-15 15:31:27,956 INFO 14996 [egg-multipart] will save temporary files to "C:\\Users\\Nan\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-exam", cleanup job cron: "0 30 4 * * *"
+2020-06-15 15:31:27,957 INFO 14996 [egg-mysql] connecting root@localhost:3306/exam
+2020-06-15 15:31:28,465 INFO 14996 [egg-static] starting static serve /public/ -> D:\Teach\__project\egg-exam\app\public
+2020-06-15 15:31:28,468 INFO 14996 [egg-security] use methodnoallow middleware
+2020-06-15 15:31:28,470 INFO 14996 [egg-security] use noopen middleware
+2020-06-15 15:31:28,471 INFO 14996 [egg-security] use nosniff middleware
+2020-06-15 15:31:28,472 INFO 14996 [egg-security] use xssProtection middleware
+2020-06-15 15:31:28,473 INFO 14996 [egg-security] use xframe middleware
+2020-06-15 15:31:28,474 INFO 14996 [egg-security] use dta middleware
+2020-06-15 15:31:28,474 INFO 14996 [egg-security] compose 6 middlewares into one security middleware
+2020-06-15 15:31:28,554 INFO 14996 [egg:core] dump config after load, 46ms
+2020-06-15 15:31:28,594 INFO 14996 [egg-watcher:application] watcher start success
+2020-06-15 15:31:28,598 INFO 14996 [egg-mysql] instance[0] status OK, rds currentTime: Mon Jun 15 2020 15:31:28 GMT+0800 (GMT+08:00)
+2020-06-15 15:31:28,666 INFO 14996 [egg:core] dump config after ready, 65ms
+2020-06-15 15:35:48,422 INFO 6168 [egg:logger] init all loggers with options: {"dir":"D:\\Teach\\__project\\egg-exam\\logs\\egg-exam","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-exam-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-15 15:35:48,525 INFO 6168 [egg-multipart] file mode enable
+2020-06-15 15:35:48,525 INFO 6168 [egg-multipart] will save temporary files to "C:\\Users\\Nan\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-exam", cleanup job cron: "0 30 4 * * *"
+2020-06-15 15:35:48,526 INFO 6168 [egg-mysql] connecting root@localhost:3306/exam
+2020-06-15 15:35:49,281 INFO 6168 [egg-static] starting static serve /public/ -> D:\Teach\__project\egg-exam\app\public
+2020-06-15 15:35:49,288 INFO 6168 [egg-security] use methodnoallow middleware
+2020-06-15 15:35:49,289 INFO 6168 [egg-security] use noopen middleware
+2020-06-15 15:35:49,291 INFO 6168 [egg-security] use nosniff middleware
+2020-06-15 15:35:49,292 INFO 6168 [egg-security] use xssProtection middleware
+2020-06-15 15:35:49,293 INFO 6168 [egg-security] use xframe middleware
+2020-06-15 15:35:49,294 INFO 6168 [egg-security] use dta middleware
+2020-06-15 15:35:49,294 INFO 6168 [egg-security] compose 6 middlewares into one security middleware
+2020-06-15 15:35:49,395 INFO 6168 [egg:core] dump config after load, 59ms
+2020-06-15 15:35:49,441 INFO 6168 [egg-watcher:application] watcher start success
+2020-06-15 15:35:49,456 INFO 6168 [egg-mysql] instance[0] status OK, rds currentTime: Mon Jun 15 2020 15:35:49 GMT+0800 (GMT+08:00)
+2020-06-15 15:35:49,555 INFO 6168 [egg:core] dump config after ready, 93ms
+2020-06-15 15:35:52,141 INFO 3724 [egg:logger] init all loggers with options: {"dir":"D:\\Teach\\__project\\egg-exam\\logs\\egg-exam","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-exam-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-15 15:35:52,211 INFO 3724 [egg-multipart] file mode enable
+2020-06-15 15:35:52,211 INFO 3724 [egg-multipart] will save temporary files to "C:\\Users\\Nan\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-exam", cleanup job cron: "0 30 4 * * *"
+2020-06-15 15:35:52,212 INFO 3724 [egg-mysql] connecting root@localhost:3306/exam
+2020-06-15 15:35:52,954 INFO 3724 [egg-static] starting static serve /public/ -> D:\Teach\__project\egg-exam\app\public
+2020-06-15 15:35:52,963 INFO 3724 [egg-security] use methodnoallow middleware
+2020-06-15 15:35:52,965 INFO 3724 [egg-security] use noopen middleware
+2020-06-15 15:35:52,968 INFO 3724 [egg-security] use nosniff middleware
+2020-06-15 15:35:52,970 INFO 3724 [egg-security] use xssProtection middleware
+2020-06-15 15:35:52,973 INFO 3724 [egg-security] use xframe middleware
+2020-06-15 15:35:52,974 INFO 3724 [egg-security] use dta middleware
+2020-06-15 15:35:52,974 INFO 3724 [egg-security] compose 6 middlewares into one security middleware
+2020-06-15 15:35:53,131 INFO 3724 [egg:core] dump config after load, 84ms
+2020-06-15 15:35:53,206 INFO 3724 [egg-watcher:application] watcher start success
+2020-06-15 15:35:53,214 INFO 3724 [egg-mysql] instance[0] status OK, rds currentTime: Mon Jun 15 2020 15:35:53 GMT+0800 (GMT+08:00)
+2020-06-15 15:35:53,334 INFO 3724 [egg:core] dump config after ready, 113ms
+2020-06-15 15:36:05,365 INFO 10556 [egg:logger] init all loggers with options: {"dir":"D:\\Teach\\__project\\egg-exam\\logs\\egg-exam","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-exam-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-15 15:36:05,422 INFO 10556 [egg-multipart] file mode enable
+2020-06-15 15:36:05,422 INFO 10556 [egg-multipart] will save temporary files to "C:\\Users\\Nan\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-exam", cleanup job cron: "0 30 4 * * *"
+2020-06-15 15:36:05,423 INFO 10556 [egg-mysql] connecting root@localhost:3306/exam
+2020-06-15 15:36:05,911 INFO 10556 [egg-static] starting static serve /public/ -> D:\Teach\__project\egg-exam\app\public
+2020-06-15 15:36:05,914 INFO 10556 [egg-security] use methodnoallow middleware
+2020-06-15 15:36:05,915 INFO 10556 [egg-security] use noopen middleware
+2020-06-15 15:36:05,916 INFO 10556 [egg-security] use nosniff middleware
+2020-06-15 15:36:05,917 INFO 10556 [egg-security] use xssProtection middleware
+2020-06-15 15:36:05,918 INFO 10556 [egg-security] use xframe middleware
+2020-06-15 15:36:05,919 INFO 10556 [egg-security] use dta middleware
+2020-06-15 15:36:05,919 INFO 10556 [egg-security] compose 6 middlewares into one security middleware
+2020-06-15 15:36:05,998 INFO 10556 [egg:core] dump config after load, 45ms
+2020-06-15 15:36:06,025 INFO 10556 [egg-watcher:application] watcher start success
+2020-06-15 15:36:06,033 INFO 10556 [egg-mysql] instance[0] status OK, rds currentTime: Mon Jun 15 2020 15:36:06 GMT+0800 (GMT+08:00)
+2020-06-15 15:36:06,099 INFO 10556 [egg:core] dump config after ready, 63ms
+2020-06-15 15:37:07,598 INFO 7296 [egg:logger] init all loggers with options: {"dir":"D:\\Teach\\__project\\egg-exam\\logs\\egg-exam","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-exam-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-15 15:37:07,670 INFO 7296 [egg-multipart] file mode enable
+2020-06-15 15:37:07,670 INFO 7296 [egg-multipart] will save temporary files to "C:\\Users\\Nan\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-exam", cleanup job cron: "0 30 4 * * *"
+2020-06-15 15:37:07,671 INFO 7296 [egg-mysql] connecting root@localhost:3306/exam
+2020-06-15 15:37:08,672 INFO 7296 [egg-static] starting static serve /public/ -> D:\Teach\__project\egg-exam\app\public
+2020-06-15 15:37:08,680 INFO 7296 [egg-security] use methodnoallow middleware
+2020-06-15 15:37:08,682 INFO 7296 [egg-security] use noopen middleware
+2020-06-15 15:37:08,684 INFO 7296 [egg-security] use nosniff middleware
+2020-06-15 15:37:08,685 INFO 7296 [egg-security] use xssProtection middleware
+2020-06-15 15:37:08,686 INFO 7296 [egg-security] use xframe middleware
+2020-06-15 15:37:08,688 INFO 7296 [egg-security] use dta middleware
+2020-06-15 15:37:08,688 INFO 7296 [egg-security] compose 6 middlewares into one security middleware
+2020-06-15 15:37:08,840 INFO 7296 [egg:core] dump config after load, 95ms
+2020-06-15 15:37:08,909 INFO 7296 [egg-watcher:application] watcher start success
+2020-06-15 15:37:08,920 INFO 7296 [egg-mysql] instance[0] status OK, rds currentTime: Mon Jun 15 2020 15:37:08 GMT+0800 (GMT+08:00)
+2020-06-15 15:37:09,030 INFO 7296 [egg:core] dump config after ready, 100ms
+2020-06-15 15:37:11,888 INFO 11664 [egg:logger] init all loggers with options: {"dir":"D:\\Teach\\__project\\egg-exam\\logs\\egg-exam","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-exam-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-15 15:37:11,968 INFO 11664 [egg-multipart] file mode enable
+2020-06-15 15:37:11,968 INFO 11664 [egg-multipart] will save temporary files to "C:\\Users\\Nan\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-exam", cleanup job cron: "0 30 4 * * *"
+2020-06-15 15:37:11,969 INFO 11664 [egg-mysql] connecting root@localhost:3306/exam
+2020-06-15 15:37:12,937 INFO 11664 [egg-static] starting static serve /public/ -> D:\Teach\__project\egg-exam\app\public
+2020-06-15 15:37:12,947 INFO 11664 [egg-security] use methodnoallow middleware
+2020-06-15 15:37:12,950 INFO 11664 [egg-security] use noopen middleware
+2020-06-15 15:37:12,952 INFO 11664 [egg-security] use nosniff middleware
+2020-06-15 15:37:12,955 INFO 11664 [egg-security] use xssProtection middleware
+2020-06-15 15:37:12,957 INFO 11664 [egg-security] use xframe middleware
+2020-06-15 15:37:12,958 INFO 11664 [egg-security] use dta middleware
+2020-06-15 15:37:12,959 INFO 11664 [egg-security] compose 6 middlewares into one security middleware
+2020-06-15 15:37:13,066 INFO 11664 [egg:core] dump config after load, 51ms
+2020-06-15 15:37:13,110 INFO 11664 [egg-watcher:application] watcher start success
+2020-06-15 15:37:13,121 INFO 11664 [egg-mysql] instance[0] status OK, rds currentTime: Mon Jun 15 2020 15:37:13 GMT+0800 (GMT+08:00)
+2020-06-15 15:37:13,201 INFO 11664 [egg:core] dump config after ready, 75ms
+2020-06-15 15:37:34,620 INFO 16652 [egg:logger] init all loggers with options: {"dir":"D:\\Teach\\__project\\egg-exam\\logs\\egg-exam","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-exam-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-15 15:37:34,686 INFO 16652 [egg-multipart] file mode enable
+2020-06-15 15:37:34,686 INFO 16652 [egg-multipart] will save temporary files to "C:\\Users\\Nan\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-exam", cleanup job cron: "0 30 4 * * *"
+2020-06-15 15:37:34,687 INFO 16652 [egg-mysql] connecting root@localhost:3306/exam
+2020-06-15 15:37:35,558 INFO 16652 [egg-static] starting static serve /public/ -> D:\Teach\__project\egg-exam\app\public
+2020-06-15 15:37:35,567 INFO 16652 [egg-security] use methodnoallow middleware
+2020-06-15 15:37:35,570 INFO 16652 [egg-security] use noopen middleware
+2020-06-15 15:37:35,573 INFO 16652 [egg-security] use nosniff middleware
+2020-06-15 15:37:35,575 INFO 16652 [egg-security] use xssProtection middleware
+2020-06-15 15:37:35,577 INFO 16652 [egg-security] use xframe middleware
+2020-06-15 15:37:35,578 INFO 16652 [egg-security] use dta middleware
+2020-06-15 15:37:35,578 INFO 16652 [egg-security] compose 6 middlewares into one security middleware
+2020-06-15 15:37:35,731 INFO 16652 [egg:core] dump config after load, 70ms
+2020-06-15 15:37:35,782 INFO 16652 [egg-watcher:application] watcher start success
+2020-06-15 15:37:35,791 INFO 16652 [egg-mysql] instance[0] status OK, rds currentTime: Mon Jun 15 2020 15:37:35 GMT+0800 (GMT+08:00)
+2020-06-15 15:37:35,883 INFO 16652 [egg:core] dump config after ready, 86ms
+2020-06-15 15:37:38,749 INFO 14180 [egg:logger] init all loggers with options: {"dir":"D:\\Teach\\__project\\egg-exam\\logs\\egg-exam","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-exam-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-15 15:37:38,841 INFO 14180 [egg-multipart] file mode enable
+2020-06-15 15:37:38,841 INFO 14180 [egg-multipart] will save temporary files to "C:\\Users\\Nan\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-exam", cleanup job cron: "0 30 4 * * *"
+2020-06-15 15:37:38,842 INFO 14180 [egg-mysql] connecting root@localhost:3306/exam
+2020-06-15 15:37:39,706 INFO 14180 [egg-static] starting static serve /public/ -> D:\Teach\__project\egg-exam\app\public
+2020-06-15 15:37:39,711 INFO 14180 [egg-security] use methodnoallow middleware
+2020-06-15 15:37:39,714 INFO 14180 [egg-security] use noopen middleware
+2020-06-15 15:37:39,718 INFO 14180 [egg-security] use nosniff middleware
+2020-06-15 15:37:39,720 INFO 14180 [egg-security] use xssProtection middleware
+2020-06-15 15:37:39,721 INFO 14180 [egg-security] use xframe middleware
+2020-06-15 15:37:39,723 INFO 14180 [egg-security] use dta middleware
+2020-06-15 15:37:39,723 INFO 14180 [egg-security] compose 6 middlewares into one security middleware
+2020-06-15 15:37:39,827 INFO 14180 [egg:core] dump config after load, 52ms
+2020-06-15 15:37:39,859 INFO 14180 [egg-watcher:application] watcher start success
+2020-06-15 15:37:39,872 INFO 14180 [egg-mysql] instance[0] status OK, rds currentTime: Mon Jun 15 2020 15:37:39 GMT+0800 (GMT+08:00)
+2020-06-15 15:37:39,948 INFO 14180 [egg:core] dump config after ready, 72ms
+2020-06-15 15:37:41,415 INFO 11244 [egg:logger] init all loggers with options: {"dir":"D:\\Teach\\__project\\egg-exam\\logs\\egg-exam","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-exam-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-15 15:37:41,465 INFO 11244 [egg-multipart] file mode enable
+2020-06-15 15:37:41,465 INFO 11244 [egg-multipart] will save temporary files to "C:\\Users\\Nan\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-exam", cleanup job cron: "0 30 4 * * *"
+2020-06-15 15:37:41,466 INFO 11244 [egg-mysql] connecting root@localhost:3306/exam
+2020-06-15 15:37:42,022 INFO 11244 [egg-static] starting static serve /public/ -> D:\Teach\__project\egg-exam\app\public
+2020-06-15 15:37:42,025 INFO 11244 [egg-security] use methodnoallow middleware
+2020-06-15 15:37:42,027 INFO 11244 [egg-security] use noopen middleware
+2020-06-15 15:37:42,028 INFO 11244 [egg-security] use nosniff middleware
+2020-06-15 15:37:42,029 INFO 11244 [egg-security] use xssProtection middleware
+2020-06-15 15:37:42,029 INFO 11244 [egg-security] use xframe middleware
+2020-06-15 15:37:42,030 INFO 11244 [egg-security] use dta middleware
+2020-06-15 15:37:42,030 INFO 11244 [egg-security] compose 6 middlewares into one security middleware
+2020-06-15 15:37:42,108 INFO 11244 [egg:core] dump config after load, 47ms
+2020-06-15 15:37:42,148 INFO 11244 [egg-watcher:application] watcher start success
+2020-06-15 15:37:42,156 INFO 11244 [egg-mysql] instance[0] status OK, rds currentTime: Mon Jun 15 2020 15:37:42 GMT+0800 (GMT+08:00)
+2020-06-15 15:37:42,219 INFO 11244 [egg:core] dump config after ready, 60ms
+2020-06-15 15:39:04,122 INFO 13648 [egg:logger] init all loggers with options: {"dir":"D:\\Teach\\__project\\egg-exam\\logs\\egg-exam","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-exam-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-15 15:39:04,199 INFO 13648 [egg-multipart] file mode enable
+2020-06-15 15:39:04,199 INFO 13648 [egg-multipart] will save temporary files to "C:\\Users\\Nan\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-exam", cleanup job cron: "0 30 4 * * *"
+2020-06-15 15:39:04,200 INFO 13648 [egg-mysql] connecting root@localhost:3306/exam
+2020-06-15 15:39:05,156 INFO 13648 [egg-static] starting static serve /public/ -> D:\Teach\__project\egg-exam\app\public
+2020-06-15 15:39:05,163 INFO 13648 [egg-security] use methodnoallow middleware
+2020-06-15 15:39:05,165 INFO 13648 [egg-security] use noopen middleware
+2020-06-15 15:39:05,167 INFO 13648 [egg-security] use nosniff middleware
+2020-06-15 15:39:05,169 INFO 13648 [egg-security] use xssProtection middleware
+2020-06-15 15:39:05,170 INFO 13648 [egg-security] use xframe middleware
+2020-06-15 15:39:05,171 INFO 13648 [egg-security] use dta middleware
+2020-06-15 15:39:05,171 INFO 13648 [egg-security] compose 6 middlewares into one security middleware
+2020-06-15 15:39:05,264 INFO 13648 [egg:core] dump config after load, 46ms
+2020-06-15 15:39:05,291 INFO 13648 [egg-watcher:application] watcher start success
+2020-06-15 15:39:05,300 INFO 13648 [egg-mysql] instance[0] status OK, rds currentTime: Mon Jun 15 2020 15:39:05 GMT+0800 (GMT+08:00)
+2020-06-15 15:39:05,368 INFO 13648 [egg:core] dump config after ready, 65ms
+2020-06-15 15:39:10,148 INFO 8992 [egg:logger] init all loggers with options: {"dir":"D:\\Teach\\__project\\egg-exam\\logs\\egg-exam","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-exam-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-15 15:39:10,217 INFO 8992 [egg-multipart] file mode enable
+2020-06-15 15:39:10,217 INFO 8992 [egg-multipart] will save temporary files to "C:\\Users\\Nan\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-exam", cleanup job cron: "0 30 4 * * *"
+2020-06-15 15:39:10,218 INFO 8992 [egg-mysql] connecting root@localhost:3306/exam
+2020-06-15 15:39:10,836 INFO 8992 [egg-static] starting static serve /public/ -> D:\Teach\__project\egg-exam\app\public
+2020-06-15 15:39:10,842 INFO 8992 [egg-security] use methodnoallow middleware
+2020-06-15 15:39:10,843 INFO 8992 [egg-security] use noopen middleware
+2020-06-15 15:39:10,845 INFO 8992 [egg-security] use nosniff middleware
+2020-06-15 15:39:10,847 INFO 8992 [egg-security] use xssProtection middleware
+2020-06-15 15:39:10,849 INFO 8992 [egg-security] use xframe middleware
+2020-06-15 15:39:10,851 INFO 8992 [egg-security] use dta middleware
+2020-06-15 15:39:10,851 INFO 8992 [egg-security] compose 6 middlewares into one security middleware
+2020-06-15 15:39:10,936 INFO 8992 [egg:core] dump config after load, 46ms
+2020-06-15 15:39:10,960 INFO 8992 [egg-watcher:application] watcher start success
+2020-06-15 15:39:10,972 INFO 8992 [egg-mysql] instance[0] status OK, rds currentTime: Mon Jun 15 2020 15:39:10 GMT+0800 (GMT+08:00)
+2020-06-15 15:39:11,036 INFO 8992 [egg:core] dump config after ready, 59ms
+2020-06-15 15:39:26,357 INFO 10784 [egg:logger] init all loggers with options: {"dir":"D:\\Teach\\__project\\egg-exam\\logs\\egg-exam","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-exam-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-15 15:39:26,455 INFO 10784 [egg-multipart] file mode enable
+2020-06-15 15:39:26,456 INFO 10784 [egg-multipart] will save temporary files to "C:\\Users\\Nan\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-exam", cleanup job cron: "0 30 4 * * *"
+2020-06-15 15:39:26,456 INFO 10784 [egg-mysql] connecting root@localhost:3306/exam
+2020-06-15 15:39:27,290 INFO 10784 [egg-static] starting static serve /public/ -> D:\Teach\__project\egg-exam\app\public
+2020-06-15 15:39:27,299 INFO 10784 [egg-security] use methodnoallow middleware
+2020-06-15 15:39:27,300 INFO 10784 [egg-security] use noopen middleware
+2020-06-15 15:39:27,302 INFO 10784 [egg-security] use nosniff middleware
+2020-06-15 15:39:27,304 INFO 10784 [egg-security] use xssProtection middleware
+2020-06-15 15:39:27,305 INFO 10784 [egg-security] use xframe middleware
+2020-06-15 15:39:27,307 INFO 10784 [egg-security] use dta middleware
+2020-06-15 15:39:27,307 INFO 10784 [egg-security] compose 6 middlewares into one security middleware
+2020-06-15 15:39:27,419 INFO 10784 [egg:core] dump config after load, 65ms
+2020-06-15 15:39:27,470 INFO 10784 [egg-watcher:application] watcher start success
+2020-06-15 15:39:27,476 INFO 10784 [egg-mysql] instance[0] status OK, rds currentTime: Mon Jun 15 2020 15:39:27 GMT+0800 (GMT+08:00)
+2020-06-15 15:39:27,558 INFO 10784 [egg:core] dump config after ready, 77ms
+2020-06-15 15:39:35,564 INFO 8980 [egg:logger] init all loggers with options: {"dir":"D:\\Teach\\__project\\egg-exam\\logs\\egg-exam","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-exam-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-15 15:39:35,699 INFO 8980 [egg-multipart] file mode enable
+2020-06-15 15:39:35,700 INFO 8980 [egg-multipart] will save temporary files to "C:\\Users\\Nan\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-exam", cleanup job cron: "0 30 4 * * *"
+2020-06-15 15:39:35,701 INFO 8980 [egg-mysql] connecting root@localhost:3306/exam
+2020-06-15 15:39:36,944 INFO 8980 [egg-static] starting static serve /public/ -> D:\Teach\__project\egg-exam\app\public
+2020-06-15 15:39:36,950 INFO 8980 [egg-security] use methodnoallow middleware
+2020-06-15 15:39:36,954 INFO 8980 [egg-security] use noopen middleware
+2020-06-15 15:39:36,956 INFO 8980 [egg-security] use nosniff middleware
+2020-06-15 15:39:36,958 INFO 8980 [egg-security] use xssProtection middleware
+2020-06-15 15:39:36,960 INFO 8980 [egg-security] use xframe middleware
+2020-06-15 15:39:36,961 INFO 8980 [egg-security] use dta middleware
+2020-06-15 15:39:36,962 INFO 8980 [egg-security] compose 6 middlewares into one security middleware
+2020-06-15 15:39:37,096 INFO 8980 [egg:core] dump config after load, 76ms
+2020-06-15 15:39:37,152 INFO 8980 [egg-watcher:application] watcher start success
+2020-06-15 15:39:37,163 INFO 8980 [egg-mysql] instance[0] status OK, rds currentTime: Mon Jun 15 2020 15:39:37 GMT+0800 (GMT+08:00)
+2020-06-15 15:39:37,270 INFO 8980 [egg:core] dump config after ready, 98ms
+2020-06-15 15:39:44,070 INFO 9480 [egg:logger] init all loggers with options: {"dir":"D:\\Teach\\__project\\egg-exam\\logs\\egg-exam","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-exam-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-15 15:39:44,191 INFO 9480 [egg-multipart] file mode enable
+2020-06-15 15:39:44,192 INFO 9480 [egg-multipart] will save temporary files to "C:\\Users\\Nan\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-exam", cleanup job cron: "0 30 4 * * *"
+2020-06-15 15:39:44,193 INFO 9480 [egg-mysql] connecting root@localhost:3306/exam
+2020-06-15 15:39:45,291 INFO 9480 [egg-static] starting static serve /public/ -> D:\Teach\__project\egg-exam\app\public
+2020-06-15 15:39:45,298 INFO 9480 [egg-security] use methodnoallow middleware
+2020-06-15 15:39:45,300 INFO 9480 [egg-security] use noopen middleware
+2020-06-15 15:39:45,302 INFO 9480 [egg-security] use nosniff middleware
+2020-06-15 15:39:45,304 INFO 9480 [egg-security] use xssProtection middleware
+2020-06-15 15:39:45,305 INFO 9480 [egg-security] use xframe middleware
+2020-06-15 15:39:45,307 INFO 9480 [egg-security] use dta middleware
+2020-06-15 15:39:45,307 INFO 9480 [egg-security] compose 6 middlewares into one security middleware
+2020-06-15 15:39:45,442 INFO 9480 [egg:core] dump config after load, 68ms
+2020-06-15 15:39:45,500 INFO 9480 [egg-watcher:application] watcher start success
+2020-06-15 15:39:45,507 INFO 9480 [egg-mysql] instance[0] status OK, rds currentTime: Mon Jun 15 2020 15:39:45 GMT+0800 (GMT+08:00)
+2020-06-15 15:39:45,607 INFO 9480 [egg:core] dump config after ready, 95ms
+2020-06-15 15:40:37,164 INFO 3728 [egg:logger] init all loggers with options: {"dir":"D:\\Teach\\__project\\egg-exam\\logs\\egg-exam","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-exam-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-15 15:40:37,263 INFO 3728 [egg-multipart] file mode enable
+2020-06-15 15:40:37,263 INFO 3728 [egg-multipart] will save temporary files to "C:\\Users\\Nan\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-exam", cleanup job cron: "0 30 4 * * *"
+2020-06-15 15:40:37,264 INFO 3728 [egg-mysql] connecting root@localhost:3306/exam
+2020-06-15 15:40:38,106 INFO 3728 [egg-static] starting static serve /public/ -> D:\Teach\__project\egg-exam\app\public
+2020-06-15 15:40:38,112 INFO 3728 [egg-security] use methodnoallow middleware
+2020-06-15 15:40:38,115 INFO 3728 [egg-security] use noopen middleware
+2020-06-15 15:40:38,117 INFO 3728 [egg-security] use nosniff middleware
+2020-06-15 15:40:38,118 INFO 3728 [egg-security] use xssProtection middleware
+2020-06-15 15:40:38,118 INFO 3728 [egg-security] use xframe middleware
+2020-06-15 15:40:38,119 INFO 3728 [egg-security] use dta middleware
+2020-06-15 15:40:38,119 INFO 3728 [egg-security] compose 6 middlewares into one security middleware
+2020-06-15 15:40:38,243 INFO 3728 [egg:core] dump config after load, 82ms
+2020-06-15 15:40:38,274 INFO 3728 [egg-watcher:application] watcher start success
+2020-06-15 15:40:38,283 INFO 3728 [egg-mysql] instance[0] status OK, rds currentTime: Mon Jun 15 2020 15:40:38 GMT+0800 (GMT+08:00)
+2020-06-15 15:40:38,352 INFO 3728 [egg:core] dump config after ready, 66ms
+2020-06-15 15:40:40,814 INFO 5828 [egg:logger] init all loggers with options: {"dir":"D:\\Teach\\__project\\egg-exam\\logs\\egg-exam","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-exam-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-15 15:40:40,905 INFO 5828 [egg-multipart] file mode enable
+2020-06-15 15:40:40,905 INFO 5828 [egg-multipart] will save temporary files to "C:\\Users\\Nan\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-exam", cleanup job cron: "0 30 4 * * *"
+2020-06-15 15:40:40,906 INFO 5828 [egg-mysql] connecting root@localhost:3306/exam
+2020-06-15 15:40:41,941 INFO 5828 [egg-static] starting static serve /public/ -> D:\Teach\__project\egg-exam\app\public
+2020-06-15 15:40:41,949 INFO 5828 [egg-security] use methodnoallow middleware
+2020-06-15 15:40:41,952 INFO 5828 [egg-security] use noopen middleware
+2020-06-15 15:40:41,956 INFO 5828 [egg-security] use nosniff middleware
+2020-06-15 15:40:41,958 INFO 5828 [egg-security] use xssProtection middleware
+2020-06-15 15:40:41,959 INFO 5828 [egg-security] use xframe middleware
+2020-06-15 15:40:41,960 INFO 5828 [egg-security] use dta middleware
+2020-06-15 15:40:41,960 INFO 5828 [egg-security] compose 6 middlewares into one security middleware
+2020-06-15 15:40:42,089 INFO 5828 [egg:core] dump config after load, 70ms
+2020-06-15 15:40:42,124 INFO 5828 [egg-watcher:application] watcher start success
+2020-06-15 15:40:42,129 INFO 5828 [egg-mysql] instance[0] status OK, rds currentTime: Mon Jun 15 2020 15:40:42 GMT+0800 (GMT+08:00)
+2020-06-15 15:40:42,212 INFO 5828 [egg:core] dump config after ready, 80ms
+2020-06-15 15:40:43,489 INFO 6136 [egg:logger] init all loggers with options: {"dir":"D:\\Teach\\__project\\egg-exam\\logs\\egg-exam","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-exam-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-15 15:40:43,545 INFO 6136 [egg-multipart] file mode enable
+2020-06-15 15:40:43,545 INFO 6136 [egg-multipart] will save temporary files to "C:\\Users\\Nan\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-exam", cleanup job cron: "0 30 4 * * *"
+2020-06-15 15:40:43,545 INFO 6136 [egg-mysql] connecting root@localhost:3306/exam
+2020-06-15 15:40:44,038 INFO 6136 [egg-static] starting static serve /public/ -> D:\Teach\__project\egg-exam\app\public
+2020-06-15 15:40:44,042 INFO 6136 [egg-security] use methodnoallow middleware
+2020-06-15 15:40:44,043 INFO 6136 [egg-security] use noopen middleware
+2020-06-15 15:40:44,045 INFO 6136 [egg-security] use nosniff middleware
+2020-06-15 15:40:44,047 INFO 6136 [egg-security] use xssProtection middleware
+2020-06-15 15:40:44,048 INFO 6136 [egg-security] use xframe middleware
+2020-06-15 15:40:44,049 INFO 6136 [egg-security] use dta middleware
+2020-06-15 15:40:44,049 INFO 6136 [egg-security] compose 6 middlewares into one security middleware
+2020-06-15 15:40:44,121 INFO 6136 [egg:core] dump config after load, 40ms
+2020-06-15 15:40:44,139 INFO 6136 [egg-watcher:application] watcher start success
+2020-06-15 15:40:44,146 INFO 6136 [egg-mysql] instance[0] status OK, rds currentTime: Mon Jun 15 2020 15:40:44 GMT+0800 (GMT+08:00)
+2020-06-15 15:40:44,204 INFO 6136 [egg:core] dump config after ready, 56ms
+2020-06-15 15:54:23,911 INFO 13056 [egg:logger] init all loggers with options: {"dir":"D:\\Teach\\React\\exam-manage\\exam-server\\logs\\egg-exam","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-exam-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-15 15:54:24,201 INFO 13056 [egg-multipart] file mode enable
+2020-06-15 15:54:24,202 INFO 13056 [egg-multipart] will save temporary files to "C:\\Users\\Nan\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-exam", cleanup job cron: "0 30 4 * * *"
+2020-06-15 15:54:24,205 INFO 13056 [egg-mysql] connecting root@localhost:3306/exam
+2020-06-15 15:54:38,281 INFO 13056 [egg-static] starting static serve /public/ -> D:\Teach\React\exam-manage\exam-server\app\public
+2020-06-15 15:54:38,334 INFO 13056 [egg-security] use methodnoallow middleware
+2020-06-15 15:54:38,383 INFO 13056 [egg-security] use noopen middleware
+2020-06-15 15:54:38,427 INFO 13056 [egg-security] use nosniff middleware
+2020-06-15 15:54:38,463 INFO 13056 [egg-security] use xssProtection middleware
+2020-06-15 15:54:38,500 INFO 13056 [egg-security] use xframe middleware
+2020-06-15 15:54:38,530 INFO 13056 [egg-security] use dta middleware
+2020-06-15 15:54:38,530 INFO 13056 [egg-security] compose 6 middlewares into one security middleware
+2020-06-15 15:54:39,441 INFO 13056 [egg:core] dump config after load, 126ms
+2020-06-15 15:54:39,540 INFO 13056 [egg-watcher:application] watcher start success
+2020-06-15 15:54:39,553 INFO 13056 [egg-mysql] instance[0] status OK, rds currentTime: Mon Jun 15 2020 15:54:39 GMT+0800 (GMT+08:00)
+2020-06-15 15:54:39,741 INFO 13056 [egg:core] dump config after ready, 179ms
+2020-06-16 14:06:24,865 INFO 14072 [egg:logger] init all loggers with options: {"dir":"D:\\Teach\\React\\exam-manage\\exam-server\\logs\\egg-exam","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-exam-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-16 14:06:24,939 INFO 14072 [egg-multipart] file mode enable
+2020-06-16 14:06:24,939 INFO 14072 [egg-multipart] will save temporary files to "C:\\Users\\Nan\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-exam", cleanup job cron: "0 30 4 * * *"
+2020-06-16 14:06:24,940 INFO 14072 [egg-mysql] connecting root@localhost:3306/exam
+2020-06-16 14:06:29,956 INFO 14072 [egg-static] starting static serve /public/ -> D:\Teach\React\exam-manage\exam-server\app\public
+2020-06-16 14:06:29,977 INFO 14072 [egg-security] use methodnoallow middleware
+2020-06-16 14:06:29,993 INFO 14072 [egg-security] use noopen middleware
+2020-06-16 14:06:30,016 INFO 14072 [egg-security] use nosniff middleware
+2020-06-16 14:06:30,035 INFO 14072 [egg-security] use xssProtection middleware
+2020-06-16 14:06:30,051 INFO 14072 [egg-security] use xframe middleware
+2020-06-16 14:06:30,070 INFO 14072 [egg-security] use dta middleware
+2020-06-16 14:06:30,070 INFO 14072 [egg-security] compose 6 middlewares into one security middleware
+2020-06-16 14:06:30,494 INFO 14072 [egg:core] dump config after load, 60ms
+2020-06-16 14:06:30,534 INFO 14072 [egg-watcher:application] watcher start success
+2020-06-16 14:06:30,563 INFO 14072 [egg-mysql] instance[0] status OK, rds currentTime: Tue Jun 16 2020 14:06:30 GMT+0800 (GMT+08:00)
+2020-06-16 14:06:30,649 INFO 14072 [egg:core] dump config after ready, 82ms
+2020-06-16 14:16:59,689 INFO 16940 [egg:logger] init all loggers with options: {"dir":"D:\\Teach\\React\\exam-manage\\exam-server\\logs\\egg-exam","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-exam-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-16 14:16:59,763 INFO 16940 [egg-multipart] file mode enable
+2020-06-16 14:16:59,763 INFO 16940 [egg-multipart] will save temporary files to "C:\\Users\\Nan\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-exam", cleanup job cron: "0 30 4 * * *"
+2020-06-16 14:16:59,764 INFO 16940 [egg-mysql] connecting root@localhost:3306/exam
+2020-06-16 14:17:00,661 INFO 16940 [egg-static] starting static serve /public/ -> D:\Teach\React\exam-manage\exam-server\app\public
+2020-06-16 14:17:00,670 INFO 16940 [egg-security] use methodnoallow middleware
+2020-06-16 14:17:00,672 INFO 16940 [egg-security] use noopen middleware
+2020-06-16 14:17:00,674 INFO 16940 [egg-security] use nosniff middleware
+2020-06-16 14:17:00,676 INFO 16940 [egg-security] use xssProtection middleware
+2020-06-16 14:17:00,678 INFO 16940 [egg-security] use xframe middleware
+2020-06-16 14:17:00,679 INFO 16940 [egg-security] use dta middleware
+2020-06-16 14:17:00,679 INFO 16940 [egg-security] compose 6 middlewares into one security middleware
+2020-06-16 14:17:00,797 INFO 16940 [egg:core] dump config after load, 60ms
+2020-06-16 14:17:00,833 INFO 16940 [egg-watcher:application] watcher start success
+2020-06-16 14:17:00,839 INFO 16940 [egg-mysql] instance[0] status OK, rds currentTime: Tue Jun 16 2020 14:17:00 GMT+0800 (GMT+08:00)
+2020-06-16 14:17:00,938 INFO 16940 [egg:core] dump config after ready, 95ms
+2020-06-16 23:43:51,735 ERROR 16940 nodejs.ServerNoResponseError: server 127.0.0.1:65411 no response in 40001ms, maybe the socket is end on the other side. (address: 127.0.0.1:65411)
+    at Timeout._onTimeout (D:\Teach\React\exam-manage\exam-server\node_modules\tcp-base\lib\base.js:427:21)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ServerNoResponseError"
+pid: 16940
+hostname: Nan-930XBE
+
+2020-06-16 23:43:51,743 WARN 16940 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-17 08:22:57,479 WARN 16940 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-17 08:22:57,534 INFO 16940 [-/127.0.0.1/-/1ms SCHEDULE /__schedule?path=D:\Teach\React\exam-manage\exam-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] start clean tmpdir: "C:\\Users\\Nan\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-exam"
+2020-06-17 08:22:57,538 INFO 16940 [egg-logrotator] clean all log before 31 days
+2020-06-17 08:22:57,542 INFO 16940 [egg-logrotator] broadcast log-reload
+2020-06-17 08:22:57,542 INFO 16940 [egg-logrotator] rotate files success by DayRotator, files ["D:\\Teach\\React\\exam-manage\\exam-server\\logs\\egg-exam\\common-error.log -> D:\\Teach\\React\\exam-manage\\exam-server\\logs\\egg-exam\\common-error.log.2020-06-16","D:\\Teach\\React\\exam-manage\\exam-server\\logs\\egg-exam\\egg-exam-web.log -> D:\\Teach\\React\\exam-manage\\exam-server\\logs\\egg-exam\\egg-exam-web.log.2020-06-16","D:\\Teach\\React\\exam-manage\\exam-server\\logs\\egg-exam\\egg-web.log -> D:\\Teach\\React\\exam-manage\\exam-server\\logs\\egg-exam\\egg-web.log.2020-06-16","D:\\Teach\\React\\exam-manage\\exam-server\\logs\\egg-exam\\egg-schedule.log -> D:\\Teach\\React\\exam-manage\\exam-server\\logs\\egg-exam\\egg-schedule.log.2020-06-16","D:\\Teach\\React\\exam-manage\\exam-server\\logs\\egg-exam\\egg-agent.log -> D:\\Teach\\React\\exam-manage\\exam-server\\logs\\egg-exam\\egg-agent.log.2020-06-16"]
